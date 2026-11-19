@@ -56,7 +56,7 @@ So the model was more consistent with the codebook than I was on a first pass. T
 
 **1. Delay hurts ratings in a sharp step, not a gradual slope.**
 
-![Share of 1-2 star ratings by delivery delay](images/rating_by_delivery_delay.png)
+![Share of 1-2 star ratings by delivery delay](rating_by_delivery_delay.png)
 
 | Delivery | Share of orders | Rated 1 or 2 stars |
 |---|---:|---:|
@@ -70,7 +70,7 @@ Customers mostly tolerate a short delay. Past 3 days late, the share of unhappy 
 
 **2. The AI reveals what the star rating hides.**
 
-![Why customers are unhappy](images/complaint_reasons.png)
+![Why customers are unhappy](complaint_reasons.png)
 
 | Group | Reasons | Share of negative reviews |
 |---|---|---:|
@@ -152,8 +152,8 @@ Extrapolated to the full pool, the orders behind these complaints are worth abou
 |---|---|
 | `ai_complaint_triage.ipynb` | Full analysis, with outputs |
 | `prompt.txt` | The classification prompt |
-| `data/ai_labels.csv` | AI labels for the 1,000 sampled reviews |
-| `data/human_labels.csv` | My blind labels for 100 reviews |
-| `images/` | Charts |
+| `ai_labels.csv` | AI labels for the 1,000 sampled reviews |
+| `human_labels.csv` | My blind labels for 100 reviews |
+| `rating_by_delivery_delay.png`, `complaint_reasons.png` | Charts |
 
 Built with Claude as a coding assistant. The labelling, analysis and recommendations are my own.
