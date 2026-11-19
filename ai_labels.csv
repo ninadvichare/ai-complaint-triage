@@ -1,0 +1,1001 @@
+review_id,primary_reason,summary_en,confidence
+f634524f5096399d2155d3de739981fd,not_received,Customer has not received the order yet.,high
+a061791c0bec3f4862936b05668466fd,not_received,Order has been paid for but not yet delivered.,high
+082d6bd1e32892e4b4cde2a5cd02ec72,not_as_described,The device received was used instead of new.,high
+dae5174116d950a23616a58119738eb8,not_as_described,Product quality is poor and watery.,high
+afd8ebe540ed56e503df915132e81f11,not_received,Customer is still waiting for the product.,high
+be1334d7ac405616d49b2f421bfea33c,not_received,Customer wants the product or a refund.,high
+5e7a01af6ac7a1223a1a6cccbd0a33fd,not_received,Product was never delivered to the residence.,high
+68144df84a53e4f96dcd21173d577b92,wrong_item,Product is incompatible with the specified laptop model.,high
+a5cfff9868bfbf6aa554f28c6b1196ff,late_delivery,The delivery took longer than expected.,high
+18b88e111929bd2167c44214bbf8854c,not_received,Customer did not receive the product.,high
+8a09b9b0b2018ea6972eb31aa5053097,not_received,Customer is still waiting for the order.,high
+02f29e4ac238024f80ed96cc0f30e772,not_as_described,Product quality is poor and not worth the price.,high
+4cea1c741ec6f07ca752baeb01116dea,not_received,Order did not arrive by the promised delivery date.,high
+3dc1a097f2f5b5798e96e2dd0f35d928,not_received,System shows delivered but product was not received.,high
+827a70667f6b8a66e6771902fc3b3445,not_as_described,Product quality is poor despite on-time delivery.,high
+e08530053426bb0b56c890f393527ffc,not_received,Product was dispatched but never arrived after the deadline.,high
+76e630724cafd973527d83e09c2755d2,not_received,Product not received and no information on status.,high
+13e922cc7f33ccd08cc215bc2938b95e,wrong_item,Received different items than what was ordered.,high
+b3ef4767af71b2cdf7a6ebc529d8d300,not_received,Product not received and customer service is unreachable.,high
+09319a6b9908033b4e4dfb6dc4aa74b0,missing_items,Order arrived incomplete with missing pieces.,high
+f7efe3bd462b241868ee0ac2b3701943,not_as_described,Product quality is inferior to expectations.,high
+7ca4bb469cde013009f79e6d55e6671a,not_as_described,Product quality is very poor.,high
+a79da906ee02350f1817b15221924d26,not_received,Product has not been received yet.,high
+1c903c1e01aa443710d5b31858066410,seller_or_support,Billing discrepancy and lack of support channels.,high
+77993d6e04c0cae199a6b183ec708625,missing_items,Only one of three products was delivered.,high
+17afa34284ef3b2c73d2e9aba03273ae,not_received,Customer has not received the two watches ordered yet.,high
+ebc82ad0dae4477d6afa93511af36089,seller_or_support,Delivery driver was rude and did not allow product inspection.,high
+02a7a6889dce39e438acdbb139ab8f39,missing_items,"Order arrived incomplete, missing mirrors and frogs.",high
+bd7c9b174dac2d17c3f41d26d6a57a94,wrong_item,"Received wrong color, late delivery, and product seems fake.",high
+bda2b0a4f12cb5143cf239140a72300f,wrong_item,Received a completely different product than what was ordered.,high
+87a49f104eaab76c108c9c68e361e81d,damaged_or_defective,Product is not recognized by the printer and is defective.,high
+e9b28962b8e59d1bc5a1fb53a7814388,missing_items,Only one product arrived instead of three.,high
+b33b549fa9f85906e5c0b53adb8336d6,wrong_item,Received a different and inferior product than ordered.,high
+a8221e7e9a7fe49195b4dd46044bcff1,seller_or_support,Order was delivered despite a prior cancellation request.,high
+2e6b4bf87df432147106be62e5a425b9,not_as_described,Product quality and appearance did not meet expectations.,high
+f18d85c64e0adf56248fdecb3abaa158,other,Customer had to pick up the order at the post office.,medium
+805277fd61016f700f698509174282a8,no_clear_reason,Customer is demanding a response without specifying the issue.,high
+8ff6181cba380f5e072a56e9b2b7d850,not_received,Product was not delivered and support is unresponsive.,high
+a8cee4ce63672b52e482b70236244484,missing_items,Three chandeliers are missing from the order.,high
+c962f6d122d61d1139814be204618cf1,not_as_described,Customer is unhappy that the product is made in China.,medium
+31aa4d75c7cc2ac8197fb1e3289116c3,damaged_or_defective,Measuring ruler is defective and out of scale.,high
+4b5c451231161a48e45233299be44c7e,missing_items,Only one roll of wallpaper arrived instead of two.,high
+4ff0267225dd964f30b164e8500bb7bd,not_as_described,Perfume does not have the expected fixation quality.,high
+11caf9720507b40da458d09dfef17f87,missing_items,Only one unit received out of four ordered.,high
+bcec0b01756436c4331c901b7d36caf2,other,Customer expresses dissatisfaction with a specific store partner.,medium
+fe3e6a44f0007ae759a6947057e9e710,late_delivery,Delivery is over 30 days late with no response from support.,high
+fe4991a6285e67a4a0408d2d36f8e1c1,wrong_item,Received the wrong product and is seeking a resolution.,high
+e54ce4d23537baeeca74cdd163510b2a,not_received,The product was not received.,high
+7738e692281ac9fd122e55b37ac20502,no_clear_reason,Customer complains about the store's partners.,medium
+bd44bdc6303db8a8db2d6e5a72b514ea,missing_items,Only one item received instead of two.,high
+02d1c042e4f7cebf4fbe0be966a1ff61,not_as_described,Product received is not original as advertised on the website.,high
+5caccf1f37c49ef076ea0e418cecb2b4,not_received,Product was not delivered and no explanation was provided.,high
+01086356469b27ab3025c8aae6f65385,wrong_item,Received the wrong type of HDMI cable and seller is unresponsive.,high
+67839f927eee3469a18617b366f1e590,late_delivery,The delivery took too long.,high
+6e97423635790db1bf4d3f2311d0ec59,not_received,Product has not been received yet.,high
+b1d3671c5c70d51c88f44257d66951b2,no_clear_reason,Customer is dissatisfied and wants a solution.,high
+42bfd6d4c31e3b09289828aec945c52d,not_received,Customer is waiting to receive the item before evaluating.,high
+3d02da61a107514df2b917d7f2e2f30f,seller_or_support,Seller is unresponsive and customer wants a refund.,high
+70bccab53f79dea5f4f338b6b879640f,not_as_described,Watch arrived with incorrect numbers.,high
+15bac14f79d25c34c3e40f126f3c2746,not_received,Product was not received.,high
+5bf7934256dd72ee270da891a0a1d93c,missing_items,Paid for two products but only received one.,high
+080d4fd2a99b7dcb4a0dd83577c43df2,not_received,Order has not arrived while other items from the same purchase did.,high
+71b47d97996dcd6bf3510a7871e84614,wrong_item,Product received does not match the photo in the listing.,high
+656c93b88ecf0790f53bf19b9c3c0540,seller_or_support,Seller has not provided instructions for a requested return.,high
+ba850a2a553e93c345ebaf412aa29a1f,not_received,Product was sent to the wrong city and not delivered.,high
+b8b0488f2349b4682c9af005df0f7cef,damaged_or_defective,Product arrived scratched.,high
+fc3e35dad52cfd73d253b71b87bf17c6,not_received,Order not received and no contact from the seller.,high
+c1e69eccdc285e2da2866f178daae25b,not_received,Product was paid for but never received.,high
+d0e64a92e085b179f0d779aae3e42336,missing_items,Part of the order was delivered but the HDMI cable was missing.,high
+8758550b654c71f147357e90a12f8867,not_as_described,Wallet is too large and does not fit standard size expectations.,high
+e6efc6e5b9e1e334a1eb4b2ed30b7d50,not_received,Customer is still waiting for the delivery.,high
+e66d58674d3bd43b320db08f619a1d4b,seller_or_support,Order was cancelled by the seller due to lack of stock.,high
+0f6886b62a79b4a700b1ac10e560aaf9,not_received,Product has not been delivered yet.,high
+5dd59df9921255e70037d6ec56496fc6,no_clear_reason,Customer describes the service as messy and does not recommend.,high
+514a7f033c82d8c49decfd331c0509f7,not_received,Customer is asking for the location of their product.,high
+9cd9ea4da0efb784c98d25128d44c75e,seller_or_support,Seller unable to fulfill order despite previous successful purchases.,high
+588e7f1da48db91361c8453ee8cd8983,not_as_described,Towels are too thin and of inferior quality.,high
+698491709f60fe4155b86134b7456e50,not_received,Product was not delivered.,high
+43a503eafda1db974c1c8cc7a83bd22b,wrong_item,Received a different product than ordered.,high
+6198b2c248b829365baae348d12d4f0d,wrong_item,Received the wrong color item.,high
+5e81dd6aef7ede11bf59eae8632d122b,late_delivery,Delivery is too slow.,high
+0cc13e5aa92659708aeed09e1e0be9db,late_delivery,Significant delay in delivery.,high
+9c05fa59cbf3196f5637a54c0349c87d,no_clear_reason,Customer provided no specific reason for dissatisfaction.,high
+696ca39d9fcbf34f5f2de68a2cd0509c,not_as_described,Product is difficult to assemble and lacks structural stability.,high
+d1ec99dfaf77d5a5771faa5eec763ebe,not_as_described,Product is poor quality and tore immediately.,high
+cec84fc401a7d06c34cf120ad8230a69,damaged_or_defective,Product arrived with a defect.,high
+42ca4f14414072da24edd496116b3a84,not_received,Product has not been received yet.,high
+f85b396f89cd989986f91a34ebc52248,wrong_item,The delivered product is completely different from what was ordered.,high
+c74815287f44d60ea65c7c4399ae4136,not_received,Order was not delivered.,high
+9b2c9a4409dab71e20176e886fcd5dfa,missing_items,Received only one of two items ordered.,high
+a7859d30ae267221061361252a2c38b3,not_received,Product not received.,high
+1b0d360c98484735dc94be4ae54eb24a,not_received,Order has not arrived after nearly a month.,high
+daf6f0b7c153fa0cc1689f28000ec087,other,Positive feedback provided despite low star rating.,medium
+db85893a9d2ceb225dbaa506d66de19a,seller_or_support,Order cancelled and refund not processed.,high
+269a272c8a08415222b8404c2113227f,not_received,Deadline passed and product not received.,high
+bde9690c5e5c3b960a58b1114b007753,late_delivery,Delivery deadline was not met.,high
+6396422a1d5d23cfc76ae3efb36b5e81,seller_or_support,Item listed as in stock but was actually unavailable.,high
+bda62618ed46215beb4a94344c79e725,no_clear_reason,General dissatisfaction without specific details.,high
+c5fd78541a0902a1180fac12a8129dc1,late_delivery,Delay in delivery.,high
+9fc0d062e722c8625eafba72d5201078,not_received,Order did not arrive on time and is still missing.,high
+1396568c5b4a474e5e473d48d534d7e7,not_received,Product was stolen during delivery and order cancellation requested.,high
+d7d4f19586771e8585d40cde69fa7d12,not_received,Product has not arrived yet and delivery deadline was missed.,high
+1e3be85cf0acd08b1b837ba5d1a4d01a,seller_or_support,The store provided no feedback or support regarding the order.,high
+a5917ab6af25a02e92e9ca24a4b7e156,not_as_described,The product size does not match the description on the website.,high
+63d8395f1a1c28c54b5daad54a50622f,not_as_described,Product quality is poor and looks different from the website photos.,high
+8abb05c6542a11ece1be62184efb3303,no_clear_reason,Customer no longer recommends the store without specifying a reason.,high
+2b1548b7746b6470035ec1202aa5e914,damaged_or_defective,Product arrived broken and seller is unresponsive to resolution requests.,high
+2f71ad6404923ebd6cc31b8654196ef6,damaged_or_defective,"Product is fragile, has low sound, and is likely defective.",medium
+cfde3bdd3de5197dcc7b47187b0400e3,missing_items,Paid for two items but only one was delivered.,high
+19ff5a56cdd0087fa78265e1ebab1e55,damaged_or_defective,Product arrived broken and replacement is unavailable.,high
+a36ae1ce75318daff3ec9d9300aa0ecf,not_received,Product never arrived and support was too slow to resolve.,high
+0e7634f3f3adb5976c59a3e656218d9e,not_received,Product not delivered and no updates for over ten days.,high
+7cb21f0fb57d449e064c836dd323e52a,damaged_or_defective,The brush arrived broken.,high
+ecb1653e6e57ed0c87b10b0276a42933,wrong_item,Received a 300ml shampoo instead of the 1L version ordered.,high
+9679909703b398a06a973382962cfcfb,missing_items,Ordered two backpacks but only one was delivered.,high
+5d47c04bb1c2526a32ce60c54c1817d6,not_received,Product was not received and customer blames store for shipping choice.,high
+0b3ef6bd8e3e231302c8ebaa38a40c5a,missing_items,Ordered three signal repeaters but only received one.,high
+bdd56d3c32a5088cdd2663d0dd355a17,damaged_or_defective,Scanner is defective and will not connect to the phone.,high
+a760948932a7d244b451980a52bc7e68,not_received,"Order did not arrive after 30 days, forcing a repurchase elsewhere.",high
+2ddd0f1fab5f45a38d239e1c6f519bfd,no_clear_reason,Customer states they will never buy from the store again.,high
+37b3eda5c02bb913377f4f74be80e2f6,not_as_described,The perfume received is counterfeit.,high
+43da079520d5960b81a18388f997442f,not_received,Product has not been received and no explanation for delay provided.,high
+858226160cc0d0fd05b08548ecc4f02c,not_received,Product did not arrive and was returned to the distribution center.,high
+1ffe410191d36735e6c5278769a8abc4,missing_items,Ordered two items but only one was delivered.,high
+b204e6e1e01d5ad3cbe74b2c6399b492,damaged_or_defective,Tire is defective and cannot be properly aligned.,high
+56041d61ef1539f9ce8ee64b02073145,not_received,Order marked as delivered but not received by the customer.,high
+1770126f004a07ab88cbf3a014cc121c,not_received,Product not delivered and customer cannot contact the store.,high
+c19c91182b35dbd2a53db23bccf66cbe,seller_or_support,Order cancelled and credit voucher not provided.,high
+2991f561e9521f368b35fa51532260f9,seller_or_support,Cancellation process took too long and was poorly handled.,high
+7502094ae84c21031642c25e78d72599,not_as_described,Product differs from photo and arrived without proper packaging.,high
+a3326c60504f6082e1fcfda222249964,missing_items,Only one ink cartridge delivered instead of two.,high
+762ebab13297774259ab5e4d686d26c8,late_delivery,Order significantly delayed and invoice not provided.,high
+ad502f00650dfa78797b7bbbb67e1a19,missing_items,Only one cable delivered out of four items ordered.,high
+1710eeb99646ecfaf3bd9143d88443fe,not_received,Product not received and customer wants to cancel.,high
+a086bb63052546d414e97a5522625788,not_received,Product never arrived.,high
+a8fc1dc8b067efd64e2fb2a496dc646a,not_received,Customer claims the site does not deliver orders.,high
+a169c853a5ba10abfccb9c9afb06aa60,damaged_or_defective,Product arrived defective and return is pending.,high
+b755e302109e6f1847f01c3df154346c,missing_items,Only part of the kit was delivered.,high
+505226320f176d851722525dfca378be,not_received,Customer is still waiting for the product delivery.,high
+dde5b1627aac00c45fc9081bdba70021,not_as_described,Product arrived late and does not match advertised dimensions.,high
+63d6e684a97a83e4ab4603e65f025b9d,not_received,Order not received despite being charged to credit card.,high
+471c9e039e07b9cd19a8c25c84e242db,wrong_item,Received wrong product and cannot contact customer support.,high
+ee4e8f9fd8213819903417595a9f9c04,seller_or_support,Item sold as in stock but was actually out of stock.,high
+06ae235bcf17d56c27869ee8f51609a1,late_delivery,Order not delivered by the promised date.,high
+09b81fdc5bc3fdcebf3152e93428aac2,not_received,Product has not been delivered yet.,high
+63272ba8a58647be696ae623e380f811,no_clear_reason,General negative feedback without specific reason.,high
+25acd7e35e5843d05e23e0e926f5a134,missing_items,Ordered two skirts but only one was sent.,high
+29a8161013c85d3c2c42050d4b535294,late_delivery,Delivery was considered too slow despite being within deadline.,high
+856767aa35fc9213d279ae80215f08e8,damaged_or_defective,Product does not function as intended for the device.,high
+95964804e0a5461ea0e335a1fd826dd6,missing_items,Incomplete delivery of multiple toner units.,high
+9579e23f23d95aa2dd4112876a9f25ca,missing_items,"Order arrived incomplete, missing two products.",high
+20ac95d985d3dad4a8d186fb829f339b,missing_items,Product arrived without the advertised calibration weights.,high
+f24c889bd14c34db040403005934683a,seller_or_support,Cancellation failed but credit card was still charged.,high
+bd6ebd03faa29d02bc66dff2299b3658,not_as_described,Product arrived poorly packaged and looks used.,medium
+4979200830719dc83982ecd7d6d83888,missing_items,"Order incomplete, missing 4 out of 6 glasses.",high
+1e715cdc9c87384f35b21f947028d3c2,late_delivery,Delivery is taking too long.,high
+0db511a536a75b5f751a5b0244ddc9b2,not_received,Product has not arrived after a long time.,high
+9d8a6a5613b6a6708c464de769bb4f88,missing_items,Received only 4 out of 5 items ordered.,high
+74fd6ca3e1c79fb057a606cff9e1d925,seller_or_support,Customer is asking how to get a refund.,medium
+c6330ba4b1840ec01ad72c2202c2f145,late_delivery,Delivery delayed and overall shipping time is too long.,high
+8eb61fc560a7479dfe176b8ef1ccfbfa,not_as_described,Product received is different and inferior to the listing.,high
+fb4df0795751d6a47c843fd09ba0172f,not_received,Still waiting for the order to arrive.,high
+613e46c726191d59533085b22940fcd5,seller_or_support,Seller sent product despite cancellation request.,high
+1687129d720c66653c7740ed536e7cd1,missing_items,"Partial delivery, only one of two watches received.",high
+bacf1c70ccb3d403fe6759179502fb69,damaged_or_defective,Poor packaging caused damage to the product.,high
+680c2e1a3c9271809fed12bfec472136,not_received,"Product not delivered, seeking refund or delivery.",high
+78ef188726f0bf273844e117b63e1d80,no_clear_reason,General complaint about company lack of commitment.,medium
+ff6044a0359dd636f49b5b67a740d2a7,not_received,Delivery deadline passed and product not received.,high
+99143104b35eebdc731fbef8e6e4e384,not_as_described,Product colors do not match the description.,high
+7dd64cc31c6306e01a850757227cb7ab,seller_or_support,Order status changed to unavailable on delivery day.,high
+73197039c8b0d9d5942943aeac66e28f,seller_or_support,Communication issue led to product return to sender.,high
+3b850443ee703ff8381534dc0349847d,seller_or_support,Sold product that was out of stock.,high
+a6c57ba2f37c1c6c9cbb4c1daf715fce,late_delivery,"Delivery failed, had to pick up at post office.",medium
+68da8c0b251599be554dea4e46b98197,wrong_item,Received a completely different chandelier than ordered.,high
+d4042b9ccfbe4972b84a493201062e81,missing_items,Paid for two calculators but only received one.,high
+58150306ba2d5d2794c8b5833543d049,damaged_or_defective,Product arrived damaged due to poor packaging.,high
+b55af56983f194540b0da2e2fc5f9bcf,not_as_described,Product color does not match the website description.,high
+ec8b8ccae465bf1042a4e18062c9a77d,wrong_item,Received the wrong color product.,high
+b4cd66234875fd7e44596cfc9fc05d71,not_received,Order was not received after cancellation request.,high
+b3b7e4f1e90d7ce7fc2384540a370534,missing_items,One curtain item is missing from the order.,high
+c6ded88e64c168b5ca7984f318fb159d,missing_items,Two lamps are missing from the received order.,high
+b87c288e1cf59201fee2aa895f153784,missing_items,Only one bracelet received instead of the full kit.,high
+ce6f0f87db1a3c082e32bda0286bf5aa,not_as_described,Product quality is very poor.,high
+261d4315948c7cc41ee46207707ae003,missing_items,Order arrived incomplete and customer support is unresponsive.,high
+de606ac147f6b5d3401b6c05a61d99fd,damaged_or_defective,Product arrived damaged and support has not responded to cancellation request.,high
+2d72651997c76976fecbcd2b11ec729e,seller_or_support,One item was cancelled by the store without notification.,high
+2829506c98c605aa0ed85066a3ab0004,missing_items,Only one of two items sent despite invoice showing both.,high
+885cafe505f836bc4694b2742d21aa5a,not_received,Customer is unsure if the order will ever arrive.,high
+4b07641247cef2cd02855fbf86772694,missing_items,Part of the order is still missing.,high
+dfaa2186af71b68b5821f2bb897f8f3a,damaged_or_defective,Product arrived crushed and unusable.,high
+f89bdc77249b9e04d9377907d3db7cf6,late_delivery,Order is delayed and store is not tracking delivery.,medium
+9183634de55bb0f2ffa5a9146b253bbc,damaged_or_defective,Product arrived defective and customer requested cancellation.,high
+5daed8162373d5914d7873de82d86355,damaged_or_defective,Watch arrived defective and does not work.,high
+d152cc4eb7fd1d9d73ac119288f11d51,not_received,Item has not arrived after a long wait.,high
+0989809c7f3c376ee14c635684920d52,not_received,Store took payment but did not deliver the product.,high
+5ec8218a2234db48dd62a872ce1be843,seller_or_support,"Order cancelled by store, but refund is not being processed.",high
+52acdf0503449b4ba6a064fcb1263e1b,missing_items,One tire is missing from the delivery.,high
+f00ca078422e9228c68c0a27a6b515c7,no_clear_reason,Customer simply stated the product is bad.,high
+5e10d690f21938ea4cf88d46c5530c4c,missing_items,"Product arrived incomplete, missing wooden structure.",high
+5d0329b298a86e429315343f7961cec2,seller_or_support,"Order cancelled due to stock issues, refund not received.",high
+bb73090765253176ef9a3984911870f9,not_received,Product was not delivered and customer wants a refund.,high
+ddabfcec75f3d96d5760ac9c9401d4a8,seller_or_support,Order cancelled due to stock issues after the delivery deadline.,high
+c797cdf562a84f928ad9c420c9e9930b,seller_or_support,Order cancelled but credit card charge remains without refund support.,high
+941944c073a413274b2d2d07be01378c,not_received,Order not received and no response from customer support.,high
+8b4c14417bccab81710772ecb8b23fd6,damaged_or_defective,Product became defective during the first use.,high
+a2b8e70d99e014db2012cfae0936e050,wrong_item,"Received wrong items, broken furniture, and no customer support.",high
+95522899f02be1acb00c4d43823b9e5e,wrong_item,Received a different product that is incompatible with the phone.,high
+af3d2087c223d8a5d46773a54c09e30b,not_received,Product was not received.,high
+22c417c4ea6e742c0208dfea13e089a3,not_as_described,Product quality did not meet expectations.,high
+32ff1219a7e485c1d460e65ce7a13e1a,late_delivery,Delivery was very slow and expensive with no support.,high
+4902dce645920720b7184cd5c5e3338c,missing_items,Received only two units instead of four.,high
+c5767ad0830baa9e28e6381130754901,wrong_item,Received the wrong backpack model.,high
+fa2ea06b0117bc5461c5f7d963d6c614,not_received,Product not received and seller is unresponsive regarding exchange.,high
+edd1f87fb782bb1c389b9dcf8d3799dd,not_as_described,Product is a fake and does not match the listing.,high
+f642d6cb07bc013def68de27251867ad,not_as_described,Product did not meet expectations.,high
+d04bfe3b90e5436b03b65e86d8b6e62d,late_delivery,Delivery was delayed.,high
+30c56289579f41b917796fab29d1e822,late_delivery,Product was not delivered within the deadline.,high
+b9659ac6bf95518dbc06a84d3b3c9a7a,other,Customer had to pick up the order at the post office.,medium
+8a8685c5c82139492c1c2ffc9c34b784,not_as_described,Curtain fabric is too thin.,high
+8487f37d2242c5269b7f7725fc4ad814,wrong_item,Received a different mouse model than ordered.,high
+38edf79a9478af15f6be3402520167d7,missing_items,Paid for two kits but only received one.,high
+8b75de18ed448667f641952c95686ac3,not_received,Order not received after one month.,high
+2464e0bf2ea1b52aa5552b70e5a10dfa,wrong_item,Received the wrong curtain model.,high
+4325dcc49092c0c935e4e558d25202e8,not_as_described,Safety kit is of poor quality and unsafe.,high
+9385638fe01ec7eef2b36058627363e0,not_received,Delivery failed and product never arrived.,high
+e20044cd7966c29db8a4f4e0272a40d5,missing_items,Only one of two items arrived despite tracking saying both were delivered.,high
+d54fba66ce0ba0004bcdf58476d5f51b,not_received,The product was not received.,high
+c7781fbecabb290532e1a9b8f787e6d3,no_clear_reason,Customer expressed sadness without specifying a problem.,high
+fbd9cc5a7770c84243e9701ac9ac2309,late_delivery,The delivery is taking too long.,high
+1127e8aa65370910b489103573819bb9,not_as_described,The product received does not match the advertised product.,high
+a6e4c9bd11cdca94abb9c984f650e4aa,not_as_described,The product received is not the same as shown in the photos.,high
+c97fb5cf98a771ef49010952af3949d6,missing_items,Ordered two towels but only received one.,high
+daa9eccb5a9b4d596e62ebbe81d9d6f1,not_received,The purchase was not received.,high
+87a203190c6faa289f677044c2fa0a99,damaged_or_defective,The product arrived broken in three pieces.,high
+dc3dd227c744ec9b728cd440e27222c8,not_as_described,The table received does not resemble the one purchased.,high
+80b6a1f49d449a42bc2fe36cbef81099,not_received,The order has not been received yet.,high
+010b7361d3c6962ffb181a8764da3b36,wrong_item,Received the wrong truck bed cover model.,high
+24663605f65e4c30723e12dd4721b923,wrong_item,Product is different from the order and customer service is poor.,high
+b9b2c5330a4eb9caf9da2d6e2610b950,not_received,The product has not arrived.,high
+9be9f9251d960a607ad19c908427b6d8,not_received,Products have not arrived yet.,high
+3f0b17a6e67885ab5eab4a07f5f71918,no_clear_reason,Customer is waiting to evaluate without stating a specific issue.,high
+84bff47e070ccc33c428c930b0faee80,not_as_described,Product material quality is worse than expected.,high
+0e6ecb18d90facae5c3afc39dd282861,seller_or_support,Dissatisfied due to lack of response regarding the order.,high
+86cf2515bef96b521072e34a169b972e,missing_items,Part of the order is missing but the system shows it as finished.,high
+2af38821135e0d5147f0513aa9b3ceb5,no_clear_reason,Customer called the site terrible without further explanation.,high
+011a79e87b0273bbbe67a913a8230bd2,not_as_described,Product does not fit the specific car model as expected.,high
+cc9495ea6d742d39d084ee6d08c00e1d,seller_or_support,Customer service representative was rude when asked about delivery.,high
+4488aeefe49359f73c6b65bb6c831bff,seller_or_support,Delivery issue and unable to contact support via email or phone.,high
+e87f32ead986ac6bcf79a0773c84844d,not_received,Product not delivered and no contact from the store.,high
+b5715419fa5a73905c5b71b810436513,seller_or_support,Customer service staff are rude.,high
+bcf1f7d1fdf796f91d59cdfab8798d7a,missing_items,The order was delivered with missing items.,high
+ed2842d0aa7ac6285c7547d17f17da4d,wrong_item,Received the wrong product and the seller is not responding.,high
+41e4dd2d40f1c1f03dfe771fcfc0ca8a,wrong_item,The product received is not the brand that was ordered.,high
+587688e2683b6b746b4834dc7576263d,not_received,The product was never received.,high
+2d4eb0f8a568e9388cd7ecdc4dc7e7de,not_as_described,The product quality is very poor.,high
+1d465071cc6fcd828b98d87444b464d9,seller_or_support,Order was cancelled by the seller after a long wait.,high
+2d05232fb08e925a077cd6f15a7dabef,not_received,The delivery deadline has passed and the product was not received.,high
+0073ab5e971a35e8814d542798699fd6,damaged_or_defective,The product is defective and does not work.,high
+624587233d2d25c15761fa1744ca821b,wrong_item,Received the wrong voltage product instead of what was ordered.,high
+4f8617e63b7edcc271f2f2cc5e553e28,not_received,The product was not delivered.,high
+bc2b53da5728cdf44996ccf16bc9f785,damaged_or_defective,One of the cubes arrived damaged or dented.,high
+d444f85bcbe316b861d079e4a9bdab2a,wrong_item,Product features do not match the description and seller is unreachable.,high
+d87c687dd8b02f8ada8388b7509a5040,wrong_item,The print on the product is different from what was advertised.,high
+8b925ef92d48c9d0114ff75e42f166e0,late_delivery,The delivery is significantly delayed.,high
+ccbac63925f8bc20894e77ced62e265b,not_received,The product has not arrived yet.,high
+1575e2b3d67c21efdc0124eab12fd3d7,no_clear_reason,The company is failing to meet expectations.,medium
+8f9772ae7dec3db4af0418fd7fb1be4d,late_delivery,The product delivery is delayed.,high
+7ddf2bd6ae66812c990b266d28e4e794,not_as_described,The product is not original and quality is poor.,high
+8f2891112d4c9912ac3ace23879cc8f3,other,Customer thanked for the product despite the low rating.,medium
+e313d9a57ec8a340caa5e5e8fd6b9561,wrong_item,The product received is different from the one advertised.,high
+c85222ec2ed67542ddf2b33bd848cea6,not_received,Ordered almost a month ago and still not received.,high
+4de5a792f54b3dedef52ee850e2ff9c4,seller_or_support,Partners do not meet deadlines and provide no support.,high
+aa8d8879ec582aa121f6b4d8b7aa6e30,missing_items,Only one chair arrived instead of the two purchased.,high
+31fdfb92519b089358fd768540cd7f4e,seller_or_support,Order cancelled due to stock issues after a long wait.,high
+06e6cccd3423308da5e581f7f43c41c0,no_clear_reason,Customer states they have already answered the questionnaire.,high
+47068150ea7849de742cd5e48bb386a2,missing_items,"The order arrived incomplete, missing one net.",high
+24d29d7003241863ee30d77750b189a2,not_received,The product was not delivered.,high
+caaf0fd00c0f129dd0471585f60503d6,wrong_item,Received the wrong product and waiting for exchange or refund.,high
+2fc8295a24978092328d3a329d22940e,not_received,Order not received and seeking refund or replacement.,high
+ff0693cd9ed942fed4dc10a397be570d,missing_items,The petals were missing from the delivery.,high
+34dca5973e14baf4bcc09eb0a5d193c3,seller_or_support,Cannot contact support to find out where to pick up the product.,high
+dc00d448b2330228c324e1962950b886,seller_or_support,Double payment issue and no response from customer support.,high
+9dd5805192277efb79e0e38a4b633bcc,not_received,Product not received and no response from the seller.,high
+aed28228cab25f2cbc325e1d755155a3,late_delivery,Significant delivery delay and lack of communication.,high
+2bc541e56886564bd4070bf42fa0db27,damaged_or_defective,Product is defective and locked up.,high
+201c8292d23f777d7112e1cc763a455c,not_received,The product was not delivered.,high
+e6e806459e212de17590126e4c22bafa,not_as_described,Poor quality finish and embroidery.,high
+3c4aee27bd0137b9f263ada6f444f790,not_received,Excessive delay and product still not received.,high
+d1adefe1d5d650fd3ee1533a679a8d52,damaged_or_defective,Product arrived broken due to poor packaging.,high
+c289216ef68703837cd8f53db49f5174,wrong_item,Received the wrong print on the product.,high
+1b9e9fd24f1b77defa3da16f03f26531,not_as_described,Towels received are of poor quality compared to expectations.,high
+4170b3da79393737aff49358a85cc430,seller_or_support,No response from support regarding order status or delay.,high
+a8c9430df3346915345897f815a68920,not_received,The order has not been delivered yet.,high
+b89da8bf58ac57525ae180e9c6f05e6f,not_received,Previous order has not arrived despite current order being delivered.,high
+6c3146f8d876a5c067693c07efb04925,wrong_item,Received the wrong ink cartridge model.,high
+b0b6250dcb1edff49cded259ab14e8cc,wrong_item,Received a different chair model than ordered.,high
+c1f62fa9b0edd8a4034be74ee30304e2,not_as_described,The received watch is a counterfeit.,high
+48bd0076a55ff7f5b7d519a548f99bc1,seller_or_support,Refund not processed after order cancellation due to stock issues.,high
+5cbadc767f729b9eea2590ccd5c92878,not_received,Product not received and unable to contact support.,high
+60ee9f17042b0d52dbfa562765257b24,damaged_or_defective,"Product arrived used and damaged, no support for return.",high
+b3ad688e5a7c1d13a63dee742e8e0468,not_as_described,Product quality is poor and it does not stay on the head.,high
+4ce04e8ba8f01d61c4c4adee4b706702,not_received,Product has not been received yet.,high
+c408cba58e10e74a81ba2be771798c25,not_received,Product has not been received.,high
+5a4f0fe15c7a914e40cabe9a06d81513,not_received,Product not received despite being charged on credit card.,high
+a41525afaa2ff34a9aa65c045da371c3,damaged_or_defective,The sword arrived broken.,high
+cd8dfc7afa6c23ddf6e96a6fd17e8ea1,late_delivery,Delivery is past the deadline and still waiting.,high
+6b390a4d0c71cd5230e4086ea3759ae9,not_as_described,Product is very different from what was expected.,high
+bf57688bdabcbd44087aadfc2af13b06,wrong_item,Received a completely different watch model than ordered.,high
+53e616f83058b7f7ee042c1f3c2ec051,wrong_item,Store delivered a different product without prior agreement.,high
+d4af5e95b270e8db1b31d2bbb53f5312,missing_items,One item is missing from the delivery.,high
+c764c16ec5fb6b3fa0ab4c07c9a1a0aa,wrong_item,Received a different brand of toner than advertised.,high
+bc0f603d79a9fc5a6c2c8c426ec2c4a6,missing_items,Package arrived tampered with and incomplete.,high
+f29a7c81c82ce0ec195adbb72030bba8,late_delivery,Delivery deadline is long and product was not delivered on time.,high
+7afb827cafa3ccc34132851ee76415e3,not_as_described,"Watch is poor quality, fake, and not worth the price.",high
+93b191abccea95be843ff81fc448f3ea,not_received,Product has not been received yet.,high
+6cc5c8294f7e480b62d534e52f74b22f,not_received,"Product not received due to stock issues, awaiting refund.",high
+73128f789b981ba4f01e211b416eac4b,missing_items,"Ordered two pants but only one arrived, seller unresponsive.",high
+a5c1f7f3a1e5db293b872b335b58b877,not_as_described,Bedding set has poor quality fabric and loose stitching.,high
+fb9123ecfc3c7c4156fa624b3eacfcd9,missing_items,Ordered three products but only received two.,high
+b7fed5b2a0c119e3afe6745493068050,damaged_or_defective,Printer does not recognize the new original cartridge.,high
+75679fc9406a0bc32999807e7c526e3e,wrong_item,Frames arrived with incorrect dimensions.,high
+ae6773f1b360f1c6369bfe4cb2df6fea,not_received,Product not received and no contact from the store.,high
+134fea88f2362321d672643fb35de958,not_received,Product not delivered despite claims of attempted delivery.,high
+0d6a1a1b9c0f6654927cd770ad20c462,wrong_item,Received a completely different product than paid for.,high
+bfad67ce5d41aebaa2713ad3aa0d129d,seller_or_support,Order status changed to unavailable without refund or contact.,high
+55698e73a4de33873edc3d522e9970e1,not_received,Product never arrived and seller is unresponsive regarding refund.,high
+7bb1a163a16b7476ebc81fc986e6a479,damaged_or_defective,Two out of four sensors are defective and do not work.,high
+0f26332ae71805db8fc738a37ab990ed,missing_items,Ordered two towel sets but only received one.,high
+e1245ee2f8e4a7aa2335bbabfda985a0,seller_or_support,Seller refused cancellation request despite early notification.,high
+fa82b9d7fc5317511ae9e931181e13ce,not_received,The merchandise was not received.,high
+5cf54f9268ace31b5539c370fe0c74b6,not_as_described,Tweezers have poor quality and defective tips.,high
+a0821d04ac2e9c2a865efaa4c72c0df5,not_received,Product was not delivered and status is unclear.,high
+b24c57693458a69e46fc48756e7cfa02,not_as_described,Poor quality product with lids that do not close properly.,high
+7924102b26310ea441554601a4b013ac,not_as_described,Discrepancy between photo and description regarding item count.,high
+3f18507c2637629a02783ba7d609ae89,not_received,"Product not received, requesting urgent information.",high
+d6e63615fc8f13a124b540d8e154a492,no_clear_reason,General complaint about lack of respect for the consumer.,high
+748a7105739819685ec4fa87be4da715,not_as_described,Perfume arrived without seal and with poor packaging.,high
+5f492814e4e3f7398ec8eab0b2f41c48,other,Positive feedback regarding delivery speed.,high
+e8440b1e9150ed83415cc8805f91fa46,other,Positive feedback regarding product quality.,high
+48c36c3ff4d8e71840e4723b966e950d,not_received,Product did not arrive in time for the event.,high
+d3ee1755937fb40863bc201b15d59870,late_delivery,Delivery delayed and stuck at the distribution center.,high
+985c22a982d129b4b337a59f2d8f73a3,not_as_described,The product quality is very poor.,high
+26c7e5d036d4f87ef1a39ff485cc588c,missing_items,Only one vase received instead of two.,high
+8672a30c567f4286320abb476565e154,not_received,Product not delivered and no communication from the seller.,high
+59a2981fe58ff6620e59ead6ba37f5a3,missing_items,Only one item from the order was received.,high
+c1b4a0188f42cb250bf5549c9501eb20,wrong_item,Received a different product than what was purchased.,high
+644146021150e191416e4d64ddf06408,not_received,Customer is asking for the product as it has not arrived.,high
+6e33fa481edd138a15d9f05508087ffb,not_received,Product not received and no explanation for the delay.,high
+276231c4bff56052e936ea8ba6ef3c2a,late_delivery,Excessive delay in receiving the product.,high
+3f63e12de5dacb6ecfe0cc8c31740812,not_received,Product not received and no response from the store.,high
+49d88d309120a20ddd8d110cb81eb4b2,not_received,The product never arrived at the local delivery unit.,high
+602b514b10171f4197b9f7539c6a96e5,not_as_described,The product quantity is too small and does not last.,high
+68f51935dbe74449dd152524b1d122d6,damaged_or_defective,The product caused physical pain and bleeding during use.,high
+0897cac972d6802fd16947dc6fe89dd5,seller_or_support,Customer is unhappy with the lack of attention and service.,medium
+cc938526ed131efccd9cfb84d0a31f5a,wrong_item,Received a different brand than the one ordered.,high
+9861e6488a1849918c7165e0af93df48,seller_or_support,Had to pick up at the post office despite paying for delivery.,high
+60f0fa11f17e0381045e616db9a421bb,damaged_or_defective,The cartridge was defective and had to be discarded.,high
+f8cb8036c5d8c77dfad81f7f86431347,missing_items,"Order arrived incomplete, missing one of the items.",high
+0a8f5a4ebb46dad1136f6725bb9f9a13,seller_or_support,Customer is asking for a refund or replacement for missing items.,medium
+bd90607f4a5e655bd1b13e545620eecc,not_received,The product has not been received and is delayed.,high
+33ef17e967c998d49ba849ac48d80e80,not_received,"Product not received, waiting for delivery or cancellation.",high
+dce283063d14e6b526583f84e59b9c37,seller_or_support,Unable to contact the store to resolve the issue.,high
+18541b22340aae377d731bcf740d1595,not_received,The product has not been received yet.,high
+17bc60adcfae0a3a44c9f1b1a8fe5697,not_as_described,The product quality is very inferior.,high
+e8c9a488c5fedc17e32ec9c16c38de1b,not_as_described,The watch is much smaller than described and looks feminine.,high
+95d27c1599269d6185b2df8523af1ee8,not_received,The product has not arrived and the order is incorrect.,high
+4d43ed12f66ae05171b0564614d641c4,not_received,Product not received and no response from the store.,high
+a071c652f613fd725cff4ccf6f2f3ca9,seller_or_support,No post-sales support and impossible to track order status.,high
+bcc7cb89cb18a66f27728393ea0c3b8c,seller_or_support,Customer bought the wrong item and needs help with exchange.,high
+c5e242a8e9680adda654a3d147c3cf28,not_received,"Product not received, cannot evaluate.",high
+8e132f4c4ec3f8bbcc879b66217060d1,missing_items,"Partial delivery, only two out of three items arrived.",high
+0399dabe791a2a01c2b7e5fbc8d1628c,not_received,"Product not received, inquiring about the delay.",high
+c66bbfcd266acc1a20a9afb313d1697e,wrong_item,The product received is very different from the photo.,high
+300c9383efed65eb15c18ff0e0458128,missing_items,"Only the invoice arrived, the actual product is missing.",high
+0b8343093ead5cab7caf8a2fd5107f08,not_received,Product has not been received yet.,high
+1f25f1a62403bca90ae5ab2e69583791,late_delivery,The product was delivered after the deadline.,high
+2acdb4c18e05c0fb1eb4a1e18a01cdd8,seller_or_support,Product was out of stock after payment was processed.,high
+561499c465cd289afee13e35bd185de0,not_as_described,Product received was different from what was advertised.,high
+ed8017eaaea74d271affe463beb1256d,not_received,Product not received and no response from seller.,high
+dbcefd7dc8deb9e869ddccf0a356ce76,seller_or_support,Seller refuses to cover return shipping for a cancellation.,high
+845e2bc6ae8e8a91c1c84cf2aaee9880,seller_or_support,No response regarding the return of a defective product.,high
+7d8d252cc0ae002b13db033ec1cd9dcb,not_received,Order has not been delivered yet.,high
+a43480f5fa30c53123861051a59982f6,missing_items,Received only one pipette instead of the advertised three.,high
+1fe8101413459da070928e996123ddf9,wrong_item,Received a battery with different specifications than ordered.,high
+a86084f9001e3ce4120bf52e6fc44d6f,not_as_described,Product color is significantly different from the advertisement.,high
+0a957052c9cc97271a96da63dad8895b,not_received,The order has not been received.,high
+17f1f63fd0d9fad6d9d2f5fae225d68b,missing_items,Order arrived incomplete and no response from seller.,high
+a894d2c017da1457ae255b3aafeb6103,missing_items,Only one of two cartridges was delivered.,high
+6414fe2db14d77a9032c0a1e051b0b05,missing_items,Received only seven out of nine chairs ordered.,high
+6286461325b33ea3d84b5c3d244cb100,damaged_or_defective,Product has sharp burrs posing a safety risk.,high
+3e988f2206deba2bb5eb4968d4e0ff96,missing_items,One of the two ordered products has not arrived.,high
+5567a50eb8f5ccc35bb7310d6add084c,seller_or_support,Product was purchased but was not actually available.,high
+fac073871253f255b8dde914c3372684,missing_items,The waterproof protector is missing from the order.,high
+a83253201bb3ee4c020d9b42f1cfac38,not_received,The order was not delivered.,high
+386da4eff50e8bf8f70f562af7a28663,damaged_or_defective,Product arrived defective and seller provided no solution.,high
+7c1ed09efc1b29f8f93add04d312381c,damaged_or_defective,The mini scanner is not working.,high
+d855aa10bcfc376feb52b383553524f8,not_received,Order has not arrived past the promised delivery date.,high
+e2557bc30d163e1bd089bb684f87a037,seller_or_support,"Item listed as available but out of stock, causing refund issues.",high
+29ce62ce6feebab2f393ddaeb687072c,not_received,Order not completed and no feedback from the seller.,high
+fe2b23ad0ceab842bfd6243e89401290,not_received,The order has not arrived yet.,high
+3517d6adbd335234632b206036b50332,not_received,The customer has not received the product.,high
+2cecb6c443f90194bce6320a0665eb6d,damaged_or_defective,The sticker tore easily and was unusable.,high
+ff48fb2152afb5eb0d8e0ffe7261fe06,not_received,The delivery deadline has passed and the product has not arrived.,high
+6af42a3fd6ca4949fdd58b81cc6e823f,not_received,Product not received despite payment.,high
+518c6112309075fd57dced5d7de71af5,missing_items,Part of the order is missing and the other part is the wrong color.,high
+6a7ad955489c53582a523e1965baac8b,seller_or_support,"Order cancelled by seller after long wait, refund process is difficult.",high
+161c215e2b76dde78b90f987cdba9bde,no_clear_reason,The customer is asking what happened to the product without specifying the issue.,medium
+1e6dcf3e365bc12afe596b9666a5b711,late_delivery,The delivery took too long.,high
+ada327898b508738fab836be801ae35b,not_received,The customer is asking where their squeegee is.,high
+8ca5764890772ed8dca028e1c969d898,not_received,The scissors kit has not been delivered yet.,high
+61d13f4092904eaaaa7085f3997faba2,wrong_item,Product arrived in the wrong color and exchange system is unavailable.,high
+a0bdfd3077d3914bd7339681cad3a50c,not_received,The product has not arrived after more than a month.,high
+e1bc9e2f33c3fa1cb40845c285f0c02b,not_received,The product has not arrived long after the promised date.,high
+f6eb2dcfb35d548a4d5760ced10451c1,wrong_item,Received a screen protector for the wrong phone model.,high
+a01e7a219790c5e6963329a5138e93c4,wrong_item,Received towels in the wrong color.,high
+365db2f855dd70d8dfff7f7db4cfeff9,not_received,Product not received and customer support is unresponsive.,high
+c63f1a3a232c3b004450ef668599c9e0,wrong_item,Received the wrong product format (liquid instead of capsules).,high
+af135616375bc121feac10a8a3a8234a,not_received,Product not received and no information on refund.,high
+2ee16185f351da2d7de827c28626bb28,late_delivery,The delivery is slow.,high
+a655bec28914fa7e2abf359b09feb863,missing_items,Only one antenna received instead of two.,high
+8c03437c554fc22b4a05bee22ac7c335,not_as_described,The product received is not original.,high
+0cac8fef1bcba2a3335b132807520f6d,damaged_or_defective,The product has manufacturing defects in the assembly holes.,high
+0debb7d7e63eb82bc99e432808de35ca,seller_or_support,Seller sold out-of-stock items and failed to notify the customer.,high
+ea18499b2b2e87e3d5e3eaa2c383e3f9,not_received,The product was not delivered.,high
+88d60cc4481778a1ebd5bc404a0643a7,not_as_described,The product quality and material are much worse than advertised.,high
+260ee32afa3b7b9ed9bc283449dfab75,not_received,Customer has not received the product yet.,high
+6e14cbad18c9f7cdb6eccd76aee6b175,not_received,Notebook not received and lack of communication from the seller.,high
+27c3b9cf451399a8858f33e1a1f91bfe,not_received,Order has not arrived past the promised delivery date.,high
+29ffb6f92601615e450be1a608cf5d2a,not_received,Product was not received.,high
+a6a8e08c5712dfe45642af2646f1846a,seller_or_support,Customer wants to return the product but support is not responding.,high
+00311993b334898af860a795f15a054f,wrong_item,Received a different product than what was ordered.,medium
+223aae73375d548116aaacb25719c24b,late_delivery,Customer had to pick up the order at the post office despite paying shipping.,medium
+5a4a69b43fa5569dc8df97590152e236,wrong_item,The seller sent a different product than the one advertised.,high
+f2621e379dea4fd993a35a69fbbc8a72,not_received,Product not received and no explanation provided by the company.,high
+a3081a4676a5126d8fc0bcbff9149708,missing_items,Order arrived incomplete despite high shipping costs.,high
+df5d75612c8b6103046284c55e06f1fa,damaged_or_defective,Product is poor quality and caused a short circuit.,high
+77ff32ee0f3abe7ecf09c5ab2ec9d053,not_received,Product has not been received yet.,high
+d43b19e88dd11a974afddf8c97b2a1fc,late_delivery,Conflicting information about delivery status and late arrival.,high
+64ad277949a04c907c08b2e35335d791,not_received,Customer is still waiting for the product.,high
+0fb0a78bd50c7141b5d64b645f3a1a1a,not_as_described,The rug color received does not match the color shown in the ad.,high
+d832f74aca1af64b4f525edcb5426dfb,seller_or_support,Product arrived without an invoice.,high
+7fcbc2c1fd1c619254dbd58c3ebb0a64,missing_items,The order was not received in full.,high
+d337124dd82da4b08bbc290c682b0361,not_received,Product not received despite status showing as delivered.,high
+fd506773437c807796478515c93be946,missing_items,One unit is missing from the order.,high
+6d096d02c248a56919a9a5a2b1c54e50,damaged_or_defective,Product arrived poorly packaged and leaking.,high
+ff2c6bbc2f35b85a8af9cea39023d592,late_delivery,Delivery service is poor and slow.,medium
+94291ddee57ebc3c36ace41ce1a2c0e2,missing_items,Only one of two units ordered was received.,high
+e97be4601a6fa63ed4bb9f20a944a396,late_delivery,Order is late and no communication was sent.,high
+3c8f1e61ac9d5132afafd0ccd1704028,missing_items,Paid for three units but only received one.,high
+c03099ac307403551cc1bf5419889e46,not_as_described,The product received is not the original version.,high
+7fe16181a915fdeea516b34c0f686b80,not_received,Product not received after one month and past delivery deadline.,high
+4083fe369904efc34440c30a32223b66,wrong_item,Received wrong model compared to the product description.,high
+f06674e742dbf47d58372fe17979f3f0,seller_or_support,Order cancelled by seller due to lack of stock near delivery date.,high
+2377a154e3d70d13979624d8bd89ead2,missing_items,Order arrived missing one controller out of two ordered.,high
+1087e6a6e0283eb40608946931a194ca,not_as_described,Product identification and set contents did not match expectations.,medium
+bb4a561e5a9730782a4c78008856a3d1,damaged_or_defective,Two out of three USB cables are defective and not recognized.,high
+9f683186107657c18aeb6904cc42d46b,late_delivery,Excessive delivery delays and poor customer service contact.,high
+cc455f5061e8638e3c8e9142ff309711,not_as_described,Product material and thickness do not match the description.,high
+7ba316e2293202668c9606372eed2b73,missing_items,"Incomplete delivery, only one curtain received instead of two.",high
+a680d5f552f5a6ba0004ad0366fa5278,missing_items,"Only two out of six kits received, no response from seller.",high
+e207871d3e871b6b5c81d931ea9e7c57,not_as_described,"Poor product quality, missing recipe, and damaged packaging.",high
+ae5917d1285e687b6b5b04d98c7d7f57,seller_or_support,Issues with exchange process and refund for suspicious product.,high
+9ecb9b631ade18a0ff87f9a16e5bb395,not_received,Product not received after two months.,high
+b9125397675acce7ad3d969b3f337f5e,seller_or_support,Order cancelled without request and refund not processed.,high
+de21691e77217d95444d8afc3155d183,missing_items,The shoulder bag was missing from the order.,high
+aee72c0f293739ab9450a25d7966c5b1,missing_items,"Partial delivery, waiting for the second part of the order.",high
+b610d2a8c75669b82df877144f55acd8,not_received,Product has not been received.,high
+3a53f3c38e6c02912e7cd2fabbbb4a54,no_clear_reason,Review text is unintelligible.,high
+38231b52cbf8dd5f2f2d7a889d0bbb90,not_as_described,Missing information regarding installation requirements.,medium
+68527c158a36d2fd93c284664ccc6dcc,wrong_item,Received wrong voltage (220v instead of 110v).,high
+15c8f3b3ff412d0f8d6b72053335fd0b,not_received,Product not received and no refund provided.,high
+9ca5de8784e79d34283e0fdfe9531cce,damaged_or_defective,"Product arrived damaged and missing a part, no support response.",high
+55db7ce9dbdf83f96111351e34c89259,seller_or_support,Unable to contact seller regarding the order.,high
+602931e4512187191360f885c42de614,missing_items,Only one chair delivered instead of two.,high
+450aa5995520172b6866a38bdf36792e,no_clear_reason,No comment provided.,high
+9381a9affc9d901498e8f59da637d9d1,missing_items,Ordered three lamps but only received two.,high
+8022b9ca812e328ad0778e6f092e25fc,not_received,The product has not been shipped yet.,high
+f1d72c86d8801bdf634f944b525ee5e3,late_delivery,Very slow delivery for a small product.,high
+0acc38ee82fc8811298d3239cf260b8a,not_as_described,Product comfort did not match the photos.,high
+4e8d04490fb8bbb437c3416c441c5aee,not_received,Order has not arrived after two months.,high
+629edbad1a5168371146144510f483a8,not_as_described,The product finish is of poor quality.,high
+a569a3d646f77e85cad6e76dfffc37d6,missing_items,Only one of two products was delivered.,high
+6408d366defdf7045ae650f0d1ce91dd,missing_items,Missing items from the order despite invoice claims.,high
+1aa8f6134b5f4b2a4b00161dccd44828,not_received,The product has not been received.,high
+39e15a39e19c10efc0a9b1327db5cee9,not_received,Cannot evaluate product as it has not arrived.,high
+9a4b4e5131bc6eafaae481c8132a2232,not_received,Cannot respond because the product has not arrived.,high
+d9a6731c1ff68633853c4998ca94af3d,seller_or_support,Unable to contact customer support.,high
+0d355fc85e14e1851a13f065774965df,missing_items,Product arrived unsealed and missing parts.,high
+725577ccc5156cb120b0eb5cf460a8eb,damaged_or_defective,Product arrived defective and did not work.,high
+8af24f8acc7e355297272485e455ec7f,late_delivery,Delivery took too long.,high
+358b73416229bf19ff44882eab4a9e67,missing_items,Only one curtain received instead of two.,high
+261d7b84d4a9b5c33f4a1b158b38a61c,missing_items,Only received part of the order.,high
+f8f75f628722335a20e4f7cb537cc9a4,wrong_item,Received screen protector for the wrong phone model.,high
+b10623fc1e55ea09bab96a0336046d4d,wrong_item,Received the wrong product and no support response.,high
+4d9738ab27699a838912b7aebf9dba2c,not_received,Product not received after a month and no support.,high
+335889d90eb539151df37e3470fc653b,missing_items,Ordered two tables but only received one.,high
+32a544de847d0d073ee7f518e3506265,not_as_described,Product quality was lower than expected.,high
+df8a53eaed4e2b1fe8d8c7152b5f15fe,not_as_described,"Poor quality, does not match product description.",high
+ac4818ce2d34a34ff6c71d40d2cc9400,wrong_item,Received the wrong beer tower model.,high
+2cb1392debddc58f1a6e1780e266d992,missing_items,Ordered two units but only received one.,high
+c2687f2602bd00a5b2ca3aed201b52c8,not_received,Product not received after 40 days.,high
+e7b22b33f3399ab9106214f86e5edf6d,not_received,Curtain has not been received yet.,high
+5f3e9c42fa03c034ba2d5345ffab59e7,not_as_described,Product quality is poor and does not match description.,high
+9096dafe15b0db4985b241e81b73e050,seller_or_support,Order cancelled or marked unavailable after purchase.,high
+b28d6d8d181a2368fadcb36a356d3b53,not_received,Product was not received.,high
+b02a133493de7b0c283f1fbb8688a4ae,late_delivery,Delivery is taking much longer than expected.,high
+8c66a7eceb2c4b202c3dfe47814d03a3,late_delivery,Delivery took too long.,high
+b177e3c343cf59e0d0bfc5c5f2a1f81e,not_as_described,Towels look nothing like the ones advertised on TV.,high
+8ee5e0d1731045fab5b76f23822f9121,not_as_described,Material is fragile and lower quality than expected.,high
+ba99c73cdfb4cac0b65aecc0d94787bb,not_received,Product not received and no communication from seller.,high
+5b2a8ed19f9461d98f1975b977786455,not_as_described,Wig is poorly made and very thin.,high
+49420f3d708d7ab1eae4a6f258f3e725,missing_items,One kit was missing from the order.,high
+9820c73449fdacc59185d514646d39c5,not_received,"Order marked as delivered but not received, no support.",high
+43c846975cad387b7c0a36aad510f825,wrong_item,Received wrong voltage device and incompatible adapter.,high
+70abd638a1541f87f6d65135c0cb6dca,missing_items,Did not receive the two bedspreads.,high
+577d4e68daeaa5c35ea3b59d96a67e50,missing_items,"Order arrived incomplete, missing the baby blanket.",high
+51b61b1873b4c2bac62c84970e9b2439,late_delivery,Delivery took almost a month.,high
+3170bd3d6b06b69862c100f5d7a85f90,not_as_described,Product quality is very low.,high
+34a485b22b484f5a87f18a809dab384a,missing_items,Product arrived missing parts.,high
+79edb538f521d901d1167e50b4c4101f,missing_items,Missing item and unable to contact support.,high
+d5744c47ea5897e4fd1d647f4c05d2c5,not_received,"Product never arrived, requesting refund.",high
+038e065415fb159cc302f06417fbba8f,damaged_or_defective,Defective product caused data loss.,high
+3399c230c47b20e122f6b143546b61a7,seller_or_support,Poor customer service and lack of human support.,high
+f33586315568c6ae4b298fbcc6274ddd,missing_items,Received only one kit but status says both.,high
+2c17887a5a42a065cf250eaa9038df6e,late_delivery,Delivery is significantly delayed.,high
+02aef505266bdd9464e1f44eb7a64427,seller_or_support,Invoice not issued and no communication from the seller.,high
+58adbaf558829975e02c0798a1f86035,missing_items,Did not receive the full order.,high
+08684202004f18aad861d4a702f1348b,not_received,The carrier has not received the package yet.,high
+37b784d90e253b9c15c65271f3edda67,not_as_described,Curtain size is smaller than the others and inconsistent.,high
+95d9b32ceb14e27ec00467d1792b457e,damaged_or_defective,Product arrived with wrong dimensions and damaged.,high
+0c432814d8b880be75bb63854310b30c,seller_or_support,No response from the company regarding delivery or refund.,high
+f042bb5075dfb84954525296fd81b347,not_received,Product has not been received.,high
+282f648dd1155e9f52d6a76b00f53227,not_received,Product not delivered and no communication provided.,high
+033baa4238fcac803931108093d2456a,late_delivery,Delivery deadline was not met.,high
+497f8e655482498f4fa9b0e264accf4a,not_as_described,Product quality is poor and not as expected.,high
+c60e3f49f2a2978e357fe15d8609e214,damaged_or_defective,Product arrived damaged and no response for refund request.,high
+51e7dce30df80adc973a808b2733e845,missing_items,"Received only one item, missing two pans.",high
+1bbe11a3e0d55332a77847b8d717b62b,damaged_or_defective,Product is fragile and broke while unpacking.,high
+d021663c03b27c25a76c9b2793fb1945,late_delivery,Product not received past the delivery deadline.,high
+ea545b375f2048992ecdd928b028b01d,not_received,Product did not arrive at the carrier facility.,high
+8db3f40219358e29223c135034aed64a,not_as_described,Mouse arrived in open packaging and not in original box.,medium
+388281bb338862f9a32c5bdbdbea907a,no_clear_reason,Review says good but is rated low.,high
+2a87b7df4f64481f0db340b1196ab9fc,late_delivery,Delivery deadline passed and product has not arrived.,high
+3e676449a927e393760c598df0bd7e7b,not_received,Paid for the product but it has not arrived.,high
+d8f88b11c8281fe5e1ef6fcf8cd2b17f,late_delivery,Product arrived late and tracking is unavailable.,high
+557c3d422c186f3ab25589afa06c2694,not_as_described,"Poor quality, wrong measurements, and does not match photos.",high
+fd7116bb434226bcffa2c0f0149f7448,late_delivery,Delivery was very late and product quality is low.,high
+cdbe62ee5c73564212d05c9f1fa532b9,seller_or_support,Cancellation request was not processed by the seller.,high
+93058d6f2eb8fcf4174efcf87a42b2db,not_received,Product was not delivered.,high
+ecd30ad71b1a6be967f483f490915fb1,missing_items,Paid for two units but only one was delivered.,high
+2e1fc3014c24353770b13d731878ffff,not_received,The product was not received.,high
+b5eda55be2a355f7e63e606760e28872,damaged_or_defective,Product arrived damaged and with incorrect temperature settings.,high
+245d316770c8e8ada158c0fc56794854,not_received,Product not found at the post office despite tracking status.,high
+8ae9ef00a1852b18a90981a10dd71770,not_received,The product has not been delivered yet.,high
+188c1aa38b8bb680814b6f4b07d4f4a9,wrong_item,Received a compatible cartridge instead of the original one ordered.,high
+bb72d713b1349a79b7649fa5ba400f15,damaged_or_defective,One of the filter candles arrived defective.,high
+1d8072168c9820d0ef1298c642fc1f40,missing_items,A package of trash bags was missing from the order.,high
+c8ede1ec763e2e4e0a8d5d270761ad11,missing_items,Ordered two curtains but only one was delivered.,high
+a85c5b44259d5bdc70728b254a53d647,not_as_described,Product quality is poor and does not provide protection as described.,high
+fc68f150ba899eceb6714f05b57cf752,no_clear_reason,Customer simply stated the product is bad.,high
+1edb1e0331873cc2085a59daa354a510,damaged_or_defective,Product arrived late and does not turn on.,high
+0bbf094e82e66237544fd0c8624cf0d3,seller_or_support,Cancellation not processed on credit card after 13 days.,high
+ebd6fe59a49aff8223ce1d5cfe6a4592,wrong_item,Received the wrong product and support has not responded.,high
+30604a566fac92a86ec4cb8f9545e993,not_received,Product not received after 30 days.,high
+07a1d72676ab129e2be3b5714ab08a3b,missing_items,Ordered two products but only received one.,high
+a3f5d875527ec65adefae2385c9f89c9,not_as_described,Product does not fit the machine correctly.,medium
+28f4c89b661532d392fbb2307db4b142,not_as_described,Product quality is inferior compared to previous purchases.,high
+51185d0df3927488308d31360c734f5a,missing_items,Ordered two items but only received one.,high
+f5c7c7e3d04d2f02db537f3809b87438,not_received,Product not received after 20 days and no support response.,high
+fa011e81cf71706bbed6211af5464b86,not_received,The product has not arrived yet.,high
+c34714befe0a6b2b4f6be8e78ceb7cc3,damaged_or_defective,"Product arrived late, broken, and in incorrect packaging.",high
+84dd71d3d501150ca72819f4348f4257,not_as_described,Cartridge performance is much lower than described.,high
+801201064d076d29d3377c3a7bdf85dc,missing_items,Ordered two rugs but only received one.,high
+a0619d9c73b5ed6885e1248fd405c027,not_received,The product has not arrived yet.,high
+781879b9ab4b3ac373ee5175e809e077,seller_or_support,No response from the seller regarding delivery status.,high
+8f68f6f7b52f647428efdec4e1a9b02a,damaged_or_defective,Product arrived without parts and does not fit together.,high
+403920bff16a185c2c754d6e8f31bb2e,not_as_described,Material is fragile and arrived with a hole.,high
+aa8907781ed98659d92da283009efd0d,not_as_described,The product received is counterfeit.,high
+adb52c0320e580d130cfce699d69c8ad,not_received,Product not received and seller is unresponsive.,high
+68709c518739690283c13da0e9277982,missing_items,Order arrived incomplete.,high
+e13c9cfd4ababd7fc130baffafa97fce,not_received,Order has not arrived yet.,high
+4bb47f4207ccaab109c2541166334f43,seller_or_support,Order was cancelled without explanation.,high
+61645099f5d7c6b9333f741d70ffdc1c,not_received,Product did not arrive.,high
+24c3a55d5d2f3e053285adbc913e7b2c,other,Customer had to pay extra to pick up at the post office.,high
+7da23e8109491496fe87869ef0fdec15,missing_items,Paid for two items but only received one.,high
+8960af41113777a1c745ce672414a224,other,Paid for home delivery but had to pick up at post office.,high
+317fe58503a6f37404cce852649ca0b4,not_received,Product was not received.,high
+8aa8ed3bdb982ceb298961ad0b3c82da,late_delivery,Product arrived after the promised deadline.,high
+f5920a2b7295ce8b4aaaa0e15630589e,missing_items,Only part of the furniture order was received.,high
+c8d692d13e49a5ee984aa84d8768221d,not_received,Product not delivered and issue remains unresolved.,high
+4cd37dd1963598c3fe478f658cf11b85,not_received,Product not delivered and no refund processed.,high
+87e2bf1ae884f895e4a9ac2a1c8537f0,damaged_or_defective,Product broke due to voltage incompatibility.,medium
+0cfb878c3b372135b29ae37c6aeacc7e,not_received,Tracking says delivered but product never arrived.,high
+6abbf7cd7559eb5b32d6ef5cb25db317,damaged_or_defective,Product arrived damaged with broken glass.,high
+3f6b94e58d8dbcde1f807e337f37cce2,seller_or_support,Seller unresponsive regarding return of used product.,high
+f9980752bb555599ef9eb236ce859386,not_received,Waiting for delivery status.,high
+2a03aecc66750484006123ff8358fe16,not_as_described,Product quality is poor and does not match description.,high
+76a05a18309209104d2ce7e4ef05e362,damaged_or_defective,Product arrived damaged and parts do not fit.,high
+d080eec1f1db9865cee32ba5a2e3c9b8,not_as_described,Product lacks authenticity seal and original packaging.,high
+06cf157639219745df82b72bd4b703df,other,Paid for delivery but had to pick up at post office.,high
+47056dcd89e83bbcd3b55eb161c1fa42,late_delivery,The order has not arrived by the scheduled date.,high
+bee0d3563b9ef587e0fc1c4b07870784,missing_items,"Received only part of the order, missing the stroller and car seat.",high
+889fc14289f455b869552273772dd103,seller_or_support,The order was cancelled by the store.,high
+66916582d4175948255420e0f2c8b313,no_clear_reason,The review is positive but the rating is low.,medium
+78869498cf4fa18c659a978c8d2399cb,not_received,Customer did not receive the product despite the company claiming it was delivered.,high
+b7d6a79d7ae643bca6ced5d18c337436,wrong_item,Received a different brand than the one advertised.,high
+ab2a7a5b86afdac6192523b81cf562b6,damaged_or_defective,Product arrived defective and needs to be exchanged.,high
+6da427172d50d187c134ebbf54c93eb5,missing_items,Only one of two items was delivered.,high
+b92c0d6d700579f3901258bb92821428,not_as_described,The product is suspected to be fake.,high
+68d6a036fba1742c206c5f83d2911610,not_as_described,Product confirmed as a counterfeit by the manufacturer.,high
+8d6dd147b195216c6d3b2ad2eed58c8e,not_as_described,The color of the product was weaker than expected.,medium
+d96a5f5980e5e18cdadfe909fa517aac,wrong_item,Received a simpler table than the one ordered.,high
+ec25b17013f463f5f8e09af65e9a1fbc,not_received,The product has not been received yet.,high
+9eb4d4e722bdc4f8456f22284a488d1f,not_as_described,Products sent with an expiration date too close to the current date.,high
+2893f7f537bc5056b7bbb42a742d56ad,seller_or_support,The store is not responding regarding the refund.,high
+c99922b1457d540799643a492e44b89c,late_delivery,The product did not arrive by the expected date.,high
+f9713d13c2aad392b72a764923a2a55d,wrong_item,A different product was delivered than what was purchased.,high
+c057776ef72b6bf01392eeb8b4425a00,seller_or_support,Logistics error caused a late delivery after a cancellation.,medium
+2b2aacfb015dc3eba24fabea07e84ef5,late_delivery,Order is late and customer cannot contact support.,high
+775c98df8f30e2fe4f13c71da79e3e66,missing_items,The order was delivered incomplete.,high
+779adfa09e476714bcc18fbf0ecb7ef3,missing_items,Order is incomplete but marked as delivered.,high
+354da7dbbb34736a7dd557a1776938c1,no_clear_reason,No specific reason provided in the review.,high
+1d67a94d03d5f1ce7a42f04e1de6f54e,late_delivery,Christmas gift did not arrive on time due to logistics issues.,high
+c89e318fa70de6cfca1f4c76e463c10d,no_clear_reason,General negative feedback without a specific reason.,high
+f864398a79a36a828a5decc251ca0cbb,not_as_described,Product quality is very poor.,high
+87cfb942aa1e62ab29652ec10a14fd5d,not_received,Product not received and no response from the seller.,high
+2c6c22e94f53c3b5153705fcfb2b58a1,missing_items,Order arrived incomplete and invoice is incorrect.,high
+7a88635733dfdead7855079407976c01,not_received,Tracking says delivered but product has not arrived.,high
+e6668684f52954d7cb8496970a9df88b,not_received,"Product not received, significantly past the delivery deadline.",high
+1878a6d156d6cff0985302c99f6dab95,no_clear_reason,Customer is unhappy and threatens legal action without specifying the issue.,medium
+462305393581bbb206458b4591950ce9,no_clear_reason,General complaint about poor service.,high
+4231bfba740dd6e9cb0d62b40d391a8e,no_clear_reason,Customer did not like the purchase.,high
+48bec7b6f7d385e9d648d5f4ea72b6c9,late_delivery,High shipping cost and delivery took almost two months.,high
+73bfdeceae9727da26531557228780e9,missing_items,Paid for two cables but only one was delivered.,high
+ef8a9e9722a9ce84cf5a0936b7264f09,not_received,"Product not received, blaming the postal service.",high
+806cc627c435dff7c0a66ecb56b8a038,seller_or_support,Store sold an item that was out of stock.,high
+7902c58f342818decef404237205227a,not_as_described,Towel was not the plush material as expected.,high
+870fa252470e5f589ce02213ce20cf28,not_received,Product did not arrive in time for a special event.,high
+8ba6a4b4b24d6172b8ad097ebab1f292,not_as_described,Lack of size information led to receiving the wrong size.,high
+ecd7b4b3060e422b5e07f2c012eb39ce,not_received,Product not delivered due to postal service issues.,high
+d59790dd8ea696ed642c3d98724b6748,not_received,Product not received.,high
+2b8ba031dbfee01193af931864666f59,not_received,Delivery deadline passed and no information on order status.,high
+5de85188e41da0f6840903d79a344792,not_received,Product was not delivered.,high
+be6973e1edcfc575b8035befe8fd88a6,not_received,Tracking stopped and no information provided by the seller.,high
+ae247e0d17a03dfd7d030e5488b64ddd,not_as_described,Packaging is different from what was advertised.,high
+db551ada5aa80d023f7529ca90bffee7,damaged_or_defective,Product arrived defective and seller did not respond.,high
+3a52de5acf044b3bd339b7f860a98a8d,no_clear_reason,Customer had a problem but does not specify what it was.,medium
+55364e6856e976a5bf9989577a7e2963,not_as_described,Screen protector is difficult to apply and reduces screen quality.,high
+ba5aca1bbbd672c6349db1029638952b,wrong_item,Received a different product than the one illustrated.,high
+0e82f5b81fc838e2f3218b743a8f9eb4,damaged_or_defective,Product is poor quality and does not work.,high
+c5557ef43e7b1ec8e1926654f089848f,not_received,The product has not been delivered yet.,high
+aa28f65462c9a513c88a2e80da5445c0,not_received,Order not fully delivered and missing invoice.,high
+c5b12472234af44d20c81e9625448bb2,missing_items,Only one of two items received after post office pickup.,high
+e8160c6e61a39e8df70be847c5986888,missing_items,One container was missing from the delivery.,high
+b12ecc5278a6196182f5c4ffe1a4973e,not_as_described,"Product is a poor quality replica, not the original.",high
+c7ecd3d49473c11b9ba438f8937235b5,not_as_described,"Product received is a fake, not the original LG brand.",high
+1cb37f65248b169e5cf4017e5234d30f,not_as_described,"Product quality is poor, smells like alcohol instead of perfume.",high
+99b3147efcbeee182d94b1f5597d7ad1,no_clear_reason,Review says great but gave a low rating.,high
+113c92e5002d4ef844f703f235157199,damaged_or_defective,The car opening button is not working.,high
+d8fed66feb6ea5da53247136844cd378,missing_items,Only one of four curtains was delivered.,high
+2b6649bd0a6f3d3370377e5cbfe7d256,other,Customer had to pick up at the post office without prior notice.,high
+64b7d7f4ac92ee152b568bd408ccc876,damaged_or_defective,"Product is uncomfortable, has connectivity issues and poor battery life.",high
+5daf3f56712eff8657045b79e4470a6a,not_received,The product has not arrived.,high
+eacf7d1c77655bf3f8aa87e53e033078,wrong_item,Wrong color received and incompatible power plugs.,high
+bfa1b2d401106cff2962545c73d0c0fd,damaged_or_defective,Product does not work and has poor quality.,high
+78e7a3c155c24e060c43bb72ffff2b8f,not_received,Product not delivered after more than a month.,high
+2cea41cfbf4bd5cf5dbf24c517018cea,wrong_item,Product received in the wrong size.,high
+c7fb23cd8188e9ed9136d6b84ec117c6,not_received,Waiting for the product to arrive.,high
+6e922cfc46abc5a3d6321468e455f0c8,wrong_item,Received smaller volume bottles than what was ordered.,high
+fb969030f27ca2b98031a354b03d836b,not_received,Product not delivered and distribution issues reported.,high
+d5d5643eb7fc2f69e5cf30456c3daff8,damaged_or_defective,One of the controllers is not working.,high
+08a92cebf9a4f88f48dd916f24c45951,not_as_described,Product did not match the description and does not work.,high
+c9fbd2ab0e26b74cd58ae3f14a17f884,late_delivery,Delivery is late and customer support is unresponsive.,high
+0b5d60a15db1aefb367627451ee685d8,seller_or_support,No response from the store regarding the order.,high
+0b616ec02228c8cc779c8ce8fad9440a,not_received,Product has not arrived and customer cannot reach support.,high
+3d3f50bb0120f5d9b78d21b0e918b1e0,seller_or_support,Cancellation request ignored and poor customer service support.,high
+85a7a4fb8e0cc2de46ec8bbeb1308947,wrong_item,Received a dual USB charger instead of the lightning charger ordered.,high
+551c98564ad21443eef6cc28ae6881b8,not_received,The product was not received.,high
+ba037f6e5bcdc293aaf7ebf167d3c853,missing_items,Only 4 out of 5 poufs were delivered.,high
+5b17866fb05fded9fb274ab5ad526aca,damaged_or_defective,Watch is not water resistant and filled with water after washing hands.,high
+8f05d3710721f12321d8ae081e439f84,other,Customer must pick up the order at the post office.,medium
+1e3ff31a4541dbb61b23c7e6c72dadfc,not_received,The product has not been delivered yet.,high
+965446bbb0eeabf720323cc37619ccca,missing_items,Only one item was received.,high
+024af0290d8c475eaa40ee57c6ea5ea4,wrong_item,Received a different brush than the one ordered on the site.,high
+61b418ab847ca5c850f8cd5576a76ec7,damaged_or_defective,The screen protector arrived broken.,high
+e9437f222a0cff21585dee3b415de864,wrong_item,Received the wrong size and customer support is unresponsive.,high
+4f3d4af8f472d4ccd334d4222c4e9ef4,late_delivery,The product was not delivered within the promised timeframe.,high
+08d7544b65c28f6ec2d0fe463ef5ddaf,missing_items,Only half of the order was received.,high
+4a2630e106c1b204d2eefbe68c7e8b14,seller_or_support,No feedback or satisfaction regarding the partnership with other stores.,medium
+4622a8624aafb228943e0747c8e0cde2,not_received,The product was not delivered.,high
+6ef12ee4985ba9f74fda873b98f5adc6,other,Positive review mistakenly categorized as negative.,high
+36db5f5bb491e4b04ee4b13fecc723f0,seller_or_support,Delivery issues and poor handling of the third item delivery.,medium
+369e59ac305b65e44c5614d4d9c30698,seller_or_support,Invoice value does not match the website price.,high
+a53ff6f163d0244869e24916c34fc157,not_as_described,The fabric quality of the bed skirt is very poor.,high
+40c4e2c5b6136e425e37fee65c723877,damaged_or_defective,The screen protector arrived broken and unusable.,high
+9f5600c5ab1457f1ec08b2ea6720cf49,late_delivery,The delivery is very late.,high
+d82cf94a422daff4f3043e41b80aad78,not_received,The order has not been received yet.,high
+08c1690c6c4f85014de482c9ba1c8e03,not_received,The order was not received.,high
+4e424f744c8185c17c7d275a562ac344,damaged_or_defective,The product arrived damaged or broken.,high
+88dae1b18181ac583060f7e4cb9f9016,wrong_item,The product received is not the one that was ordered.,high
+f69bf052b3b43abde9856c27c1b8bf05,seller_or_support,Customer wants shipping refund after having to pick up order at post office.,high
+df99aafd45e84b6f1e1af43b31c4aad0,missing_items,"Order arrived incomplete, missing items requested.",high
+0787f2114bbccf54944e73671a579159,late_delivery,Delivery delayed by one month without justification.,high
+43e964b1086d9857a9628a12068e3c85,missing_items,"Received only one of two items, seller not responding to emails.",high
+c79eed73ecc3e8905d22c2baaf49e047,damaged_or_defective,Watch arrived with a broken hand.,high
+4f2335919545ac622d08b13400df8703,missing_items,Part of the order is missing despite being marked as delivered.,high
+cbd48d5510b396510cf9a0219b2e5672,not_as_described,Product quality is poor and does not match the description.,high
+e1892bec08462af39037dadc0ee18b3d,seller_or_support,Website error preventing return process and refund request.,high
+0bf5c41b3587018d0367b47b6bc6d76e,missing_items,Ordered two rugs but only received one.,high
+3f2cfb774596b4d4c46e024ed0a9aba9,not_received,Product not received despite payment.,high
+dc2db9321862ebd5c48dd6e92cebbc46,missing_items,One item missing from the order.,high
+40884f2e6816c84ae189706b83c882ae,seller_or_support,"Order cancelled due to delay, seeking refund information.",high
+b2eb6e036ff001f946cb7229b624ded6,not_received,"Order never arrived, customer requesting cancellation and refund.",high
+b1d83f9ce9d172b2ef3882b7d6bbcc3d,not_received,Product not received and no communication from seller.,high
+0104b3be7b4d7e8f886e7a6ac04f17fe,not_as_described,Product shape and size do not match the description.,high
+a2a00053290f7a7d56961b255670edee,missing_items,"Received only the stroller, missing the infant car seat.",high
+cdc76686fca978d26131d4bfc70b8816,wrong_item,Received a completely different item than ordered.,high
+c8aa80ce5db16def531c812c22e86373,wrong_item,"Received a cheaper, lower-spec model than the one purchased.",high
+fc7cd89cf23ad9daef75d94d9f5757df,no_clear_reason,Customer is dissatisfied with the product without specifying why.,high
+254c0cda418e52fde7649ed40fdef606,not_received,Product has not been received.,high
+28256e0558c4b12af80959c4565978d4,not_received,"Product not delivered, seeking status update.",high
+77bb1cf61b23d884784c7b481fb06183,missing_items,"Only one item arrived, missing the other.",high
+266f20b18269dbe41c940ea11acc5d3d,not_received,Tracking says delivered but package never arrived.,high
+e53d6f3df8ab04b6d10b3d2fad9805b0,wrong_item,Received wrong color/pattern.,high
+ad0504c851e8bdb66b9b4c2b2810c67a,damaged_or_defective,"Toy arrived defective, exchange process is difficult.",high
+9eb9fc22feb0a16258d04956fd740847,not_received,Product not delivered after more than a month.,high
+b687c83757ba7c696f56b28df251ab51,missing_items,Ordered two desktops but only one arrived.,high
+cbe7e6af895bfed54eff174d62feadb1,not_received,"Product not received, tracking shows delivery in wrong city.",high
+b26a755642556c1b115289ed08626435,not_received,"Product not received, stuck at post office.",high
+ab1cff9b36e46cea468b5bf58eadac40,wrong_item,Received wrong item and support is slow with return process.,high
+e87d60236b3e42212652015527747503,late_delivery,Product did not arrive within the deadline.,high
+48d5ecbd8f58a59125aec500070293f3,not_as_described,"Wallet is too large and ugly, not as expected.",high
+eb52c9ea90376c2e87bd4376d69b727a,missing_items,"Order arrived incomplete, missing the cylinder unit.",high
+d32a3cc0cb656424d0a871c906fd2bae,seller_or_support,Customer demands shipping refund after post office pickup issues.,high
+227efcbeb41b52c41919d370d3626d10,not_as_described,"Poor quality product, does not match the photo.",high
+d8bc61c2d9fb074c62e19f549a9f5eba,missing_items,Requesting the missing parts of the device.,high
+9944aeddda9de4e02736080c06a58280,late_delivery,Seller is not meeting delivery deadlines.,high
+09e1f7e3288ae0f68dda1d8f69f37bb2,damaged_or_defective,"Product arrived defective, waiting for exchange.",high
+5dab20ed6ca66f9cbde95fda3633699a,not_received,Product not received and no refund provided.,high
+e38e4439b18699515ef50e3554711c88,not_received,Neither product nor refund received.,high
+5812d3eb41d341f21a0096f23b1861bb,wrong_item,Received wrong product despite correct invoice.,high
+a83011f37c427787c0f3b0a65984baaa,late_delivery,"Order is very late, though seller is communicating.",high
+a55607825e2db379c4012a4e926aa7a5,missing_items,Ordered four devices but only two arrived.,high
+93f529187a4579f3361f118e2ad2515d,wrong_item,Received an inferior model instead of the one purchased.,high
+c76267a416d0704fd640673e8c0eeb32,no_clear_reason,Customer is upset without specifying a reason.,high
+3f2e235eb284ac958e47a1de21cf5705,not_received,Product was not received.,high
+04774c7f89bbb960a1204b8b6aa608fc,not_received,Charged for a product that was never delivered.,high
+ea0bd223587de0d11dda627671dac08c,seller_or_support,Paid for item only to be told later it is unavailable.,high
+580066f61102553a84525b7a5ebbb4a3,seller_or_support,Order cancelled by seller shortly before delivery deadline.,high
+227f5eb3897c7b5f98fa8ebfde463c80,wrong_item,Received an inferior product instead of the one ordered.,high
+3fbe4ab627b9a33901fa137749ce3f25,missing_items,Ordered two units but only received one.,high
+3ab7d617bad8c93d2015be940e6ff132,not_received,Product was stolen in transit and no replacement received.,high
+3026fee0918ea1f17c3a24e988e4af8c,not_received,Product never arrived and had to be cancelled.,high
+200e4ee2ab875150108883edb625f320,late_delivery,Delivery is over a month late with no forecast.,high
+fa0007f39a6cedd4669564e9c528813e,not_received,Order not received after one month and seller is unresponsive.,high
+9cae0e909f76fe83aa26bfb57b129281,other,Customer unhappy because delivery is handled by the postal service.,medium
+beecf37b771d454e30c725564654c50e,wrong_item,Received wrong model after a very long delay.,high
+c9035725ab33e5ff76de4cb2b28df64f,wrong_item,"Received the wrong product, causing inconvenience for exchange.",high
+7a9438aceee43236b521668ff377b01a,not_received,Product was never shipped by the supplier.,high
+f3e97b831b51ed6ec9171554670f788f,missing_items,Only received two out of three items ordered.,high
+a87c19be40ccbb6551217e26332a1bbc,seller_or_support,Order cancelled by seller due to lack of stock.,high
+15f1079cc6f9ff3b5955fdf2acb56a42,missing_items,Received wrong items and only one unit instead of two.,high
+652a37d69353d5675dc7888b1c290601,not_received,Product did not arrive despite tracking showing it was delivered.,high
+add668839f75a741571e3af8d9c047c6,wrong_item,Received the wrong product.,high
+0885cb145e3ee0e83bf67cffff037dbc,not_received,Order has not been received.,high
+3d4d72bd998f786927d0ee2b73ee6b3e,seller_or_support,Product returned to seller and no support provided for reshipment.,high
+a44d799cecef2d0b0da9b87faf24fd82,damaged_or_defective,One item arrived damaged and seller is not responding.,high
+85a150f1bf620917efae51272e748d61,other,Customer does not want the product as it did not fit.,high
+fcfc31341f9eb4b38ab788484d8e0401,late_delivery,Order not received within the promised deadline.,high
+ac313070ee4ecde0406fec694d8bc9cb,wrong_item,Received wrong product and customer support is unresponsive.,high
+e9900aab8cd7d3235400acefceab61c5,damaged_or_defective,"Product arrived in wrong color, scratched, dirty, and damaged.",high
+a90eaa7ba16547d12d930292bc18b2bd,not_received,Product has not arrived and delivery is delayed.,high
+ad30d16e013d14e2bd81b5677e4e7e11,wrong_item,Received the wrong color product.,high
+2fa017ad6887aa80635fadc575d8f09c,not_received,First time experiencing a non-delivery issue.,high
+467a87e491928552a1f09c69ce6c1428,wrong_item,Received wrong product and seller is ignoring complaints.,high
+3cfcd38fdb9e6f5ff1d6b820eabd236f,not_received,The product was not delivered.,high
+2097099ab5d7679eea62752cd2b8fb5c,missing_items,Ordered three lamps but only one was delivered.,high
+1467012b095deca935230eaca065f42c,wrong_item,Received the product in a different color than ordered.,high
+c3eb144b7ab98e0aaf812c73df9fe100,missing_items,"Only the puff arrived, the basket is missing despite being marked as delivered.",high
+673c0f70f65a2758382210d0c374de31,missing_items,"Ordered two units but received only one, and it was the wrong product.",high
+7814bfae91eb932bfbcb4670aa08a981,not_received,The product was not received.,high
+ddb5d4f191fc5b3bfe9116e121d68ce5,damaged_or_defective,The watch arrived with a defective clasp.,high
+014bb9d880369a341aec44c060de24d5,not_received,Product not delivered and seller is unresponsive to complaints.,high
+a7fa42ed04b69b3af317cb62ed4f8e9e,not_as_described,The cable is incompatible with the hair straightener.,high
+997a946b8dfb471bf9538772c5a01c3e,not_as_described,Product quality is poor and not worth the price.,medium
+30ca86c00c0eedaf6ea08a6261404cc2,not_received,Product has not been received yet.,high
+6b2c1a17ae6a4d770bc81c29ae5bf8df,damaged_or_defective,Watch arrived defective with loose buttons and LED issues.,high
+876b6410109272fbe90c3cf4b4763939,not_received,Product not received and delivery deadline was missed.,high
+1d3bede39ce70e44f6236cdaa79f0b06,not_received,"Product not received, lost trust in the seller.",high
+8f88d933e21e08599ea3e88e6e63b2b9,not_received,The product was not received.,high
+b577000cc81238c033e48d29029b3089,not_as_described,Product does not fit the 15.6 inch laptop as expected.,high
+f51d49fa7930012adb08ab8fcbfd167e,late_delivery,Delivery dates were not met.,high
+6bbd5a6c767365f262ea6e5b86fd87ac,late_delivery,Product delivery is significantly delayed past the deadline.,high
+6bc92786a5bd0870cd21303014d4c0c8,no_clear_reason,Customer provided no specific reason for dissatisfaction.,high
+534935b9395a0751ecfece59dafe804a,late_delivery,The delivery deadline was not met.,high
+5332b72bdb781ad2bd607c774c450563,late_delivery,Lack of punctuality in delivery.,high
+6a185e8742a6b85ac6826c683fa8b574,damaged_or_defective,The sink arrived broken due to poor packaging.,high
+f71d2260e53c63c6b4b726c178a13e9b,missing_items,Items were delivered separately causing confusion with the invoice.,medium
+23069688b535e676934c6b3d17a524ef,wrong_item,Received a suction cup mount instead of a seat mount.,high
+f45e3373e177f56944a549ff601f838b,wrong_item,Received the product in pink instead of yellow.,high
+124417371f543ee236aef75b02bdee6d,wrong_item,The product received was completely different from what was ordered.,high
+b16578c429108889aee3e04407ba0516,not_received,The product has not been delivered to date.,high
+a54124b16458b1048f7ccebbcacbe808,not_received,The delivery deadline has passed and the product was not received.,high
+b738a3631bdb181519f3a9387833bc1d,not_received,Product not delivered and no contact or support provided.,high
+a324e2993e5b0066052397a2acd046b5,seller_or_support,Invoice not issued and no communication from the seller after a month.,high
+d895793ed7096522e5c4b0d17b0c6df2,seller_or_support,"Order cancelled due to unavailability after long wait, refund pending.",high
+3b89c262494559e149c64186e34398af,not_as_described,"Product is short, smells bad, and is difficult to adjust.",high
+16fa24a39e685df2a66d4bf0abfba9dd,missing_items,Order arrived incomplete and the remaining item was damaged.,high
+5ae4ad17bdf371b368feeb35dded6adb,late_delivery,Delivery is two days past the promised deadline.,high
+99e058497356fcff75c988b79c9307ab,wrong_item,The product sent was different and inferior to the one sold.,high
+362b55a97ac85c7d618f9b4d8ba6442f,not_as_described,"Product quality is very poor, described as fake or low quality.",high
+da04618688ad2867cb3f56135457c1cf,seller_or_support,Discrepancy between credit card charge and invoice value.,high
+6f3544086c1f4205b7abab4b044168fe,not_received,Product was not delivered.,high
+835510e70a41869461357ead85ac63c8,missing_items,The 1kg of glue ordered was missing from the delivery.,high
+1b7cf3968c382217d1ab9625c6a377ea,not_received,Product not received and delivery deadline has passed.,high
+38c1166a1da44d697627c3c0f18101c4,not_received,Product did not arrive after a month and cancellation was problematic.,high
+29c74474643d8ac2169a770377c41230,not_received,The product did not arrive.,high
+1c73ba9af40bd212b961d1e548e53261,not_received,"Product not received yet, delivery is very slow.",high
+32838f58f834c1635096dfff04eea07f,seller_or_support,Customer is requesting a refund and a solution for their order.,medium
+604097d05c7b80206fc808f6781ebfc4,not_as_described,Product has manufacturing defects and poor quality materials.,high
+eae68eeb9d1d44892c62ac7139c93991,damaged_or_defective,Toner arrived broken and damaged the printer.,high
+859b628a247fd164de9532ce7b2caf10,late_delivery,Lack of tracking updates and significant delivery delays.,high
+33bc65b0286e93b8cbfdd377c93bea14,not_received,Customer is still waiting for the product.,high
+b96ee93f2579b70a82790d162ceb0ff9,not_received,Product was not received and likely lost in transit.,high
+0db1577cdd4bead6410e02481a8ff69c,no_clear_reason,Customer is waiting for a response without specifying the issue.,medium
+b6be0347bcd0d86b1d4507bf8f032450,seller_or_support,Customer paid for shipping but was forced to pick up at the post office.,high
+9837c1aa57c1116c83c2dd5050f685aa,damaged_or_defective,The product arrived broken and the customer wants to return it.,high
+b2e9e3d39afa649c8c6457d26e1d67fe,not_received,Part of the order is missing and the rest was never delivered.,high
+d4322a57321645f29b70c70f901f64e6,not_received,The product was purchased but never arrived.,high
+ac4978bdd301bfa2db4b613adbb66e19,not_received,"Product never arrived, missing the Christmas deadline.",high
+fba36ab49c83ab608b272c2f65b16af0,wrong_item,Received the wrong item in a larger size than requested.,high
+681a450c0c294390422a8557d645d03d,late_delivery,The delivery deadline has passed.,high
+654ad2cbb6d7e67177173f7ff1926021,not_as_described,The color is correct but the fabric quality is not as described.,high
+7f91f47b850913ca8059bc5025807c69,missing_items,Received only one of two items and the seller is unresponsive.,high
+d6a14617b3f025bed0a01359a2f4a0ad,missing_items,Ordered two units but only received one.,high
+63bcd08d96493aaf37a206e1b0de0834,seller_or_support,The store needs to pay more attention to the customer.,medium
+73b02ff4a93202520d38e5e20cb5859b,not_as_described,Product design is flawed and does not function as expected.,high
+b9fb7259b39b4b91a8ce7bc62218c86a,wrong_item,Received the wrong product and the seller is not responding to exchange requests.,high
+8223b52119232884ffa39d94b7fa76db,missing_items,The order arrived incomplete and the customer is waiting for a resolution.,high
+df2349ca936181c2a7a3ceabbe33b346,late_delivery,The store failed to meet the one-month delivery deadline.,high
+3c536807957a30392592bdcd939fb461,missing_items,Ordered four manicure kits but only received one.,high
+7a4a9f6edaa212e88099992f7a1608ab,not_as_described,Received a counterfeit product instead of the original advertised.,high
+5d50c6ae6b5209402b36473dbad11740,wrong_item,Received a completely different product than what was expected.,high
+fae72710a5b11bfc70f282978a2714e5,late_delivery,Customer is expecting a delay from the postal service.,medium
+642410e0fd1d49415cca6f7c6b118e7d,not_received,The product has not been received yet.,high
+4707305091edd90fa7feef92089156e5,not_as_described,The product is a replica and this was not clearly stated.,high
+12c57075f149a1db57bd8551c55dfb5a,not_received,The product was not delivered and the store provides no information.,high
+ff1dfc9a95e3eff7cae0dd7041901add,not_as_described,Product quality is low compared to the price and description.,high
+8cbb5fc4072a5b57ae31eed5f25cb236,wrong_item,Received the wrong model of the remote control.,high
+addedbee3c810eb802219c1822a805ec,damaged_or_defective,Part of the order arrived damaged and the return process is difficult.,high
+45bb429b7595646ed5139784dafa7fc2,not_received,Product has not arrived and waiting for a response.,high
+3f6dc3d7a268249b780625351bac1edf,not_received,I did not receive my product.,high
+122bc2757bf00a74044291c8956979dd,not_received,Site says delivered but I did not receive it.,high
+794e69769f91e51b752028ee5cbcb234,damaged_or_defective,Product arrived defective and does not work.,high
+558f06b96bf0e8114b2d3572b6badb7d,not_received,Product not received and requesting a refund.,high
+9355d793aacd4ec3422e7ff2bbf7f484,damaged_or_defective,Product arrived damaged and missing components.,high
+ee36eb06005e20daece65976bd9990e4,missing_items,Order delivered incomplete.,high
+05aad87920679fc70544a2644c3aa7da,not_received,Product has not arrived after the deadline.,high
+e74dfb84ac092e19ccba38ed93ee0554,seller_or_support,Product sold without stock availability.,high
+c6f3b87b3f39a1e4f9db6e89c53920e6,not_received,Product has not arrived yet.,high
+eb85bd52d6e9a29cc3021c64ae5110cd,not_received,Product not delivered after more than a month.,high
+d1950ebb57352ea39897dbb1817caa93,no_clear_reason,Customer needs the chair urgently.,medium
+2c573bdf789cae8761dc8357cc6d2663,not_received,Product not received and seller is unresponsive.,high
+0de9c898aa0d98dd8b87e97c0d48d929,not_received,I have not received my order yet.,high
+251d78e9576363b2bc5fa561f389fa89,not_received,Delivery not yet made.,high
+1da9941264ebc5c4a093ee4ba82af918,late_delivery,Product arrived correctly but delivery was delayed.,high
+3c9670bfa9204bf16e5813ee66f9c5cb,late_delivery,Delivery deadline was extended and information was poor.,high
+b8bd4641dc64ea1a28999974f92e3f1a,wrong_item,Received the wrong prescription lens power.,high
+9827b9550294d4cf18196f7dcb5a6662,not_received,Product did not arrive by the deadline.,high
+fff423fa29671178879573a06995b199,not_received,Waiting to receive the product.,high
+9b0de1d88953c90395668a65dd4983fc,damaged_or_defective,Microphone arrived completely broken.,high
+bf04cefb8f9cac1da1988498fb888ad9,damaged_or_defective,Product arrived with non-functional keys.,high
+6e755cbed347777aa1d6e8bd73424869,late_delivery,Takes too long to arrive.,high
+696a80628f16220233a31cab1ce3ef30,other,Positive feedback on product and delivery speed.,high
+88ce13e429ce3faffb0225b64b4e5336,seller_or_support,Order split into multiple shipments without proper notification.,high
+0ffae99e57188428340c206afb957a1c,missing_items,Only one of two items was received.,high
+afe145761370de1d87d294e31e8610be,no_clear_reason,Customer expresses dissatisfaction without specific details.,medium
+552b3155d24c82dc910df6f57dd7002f,wrong_item,Received a completely different product model than advertised.,high
+252221d5b7d674dd0a07dfc0b2eba75e,not_received,The customer has not received their product.,high
+f48e3d3d3ac7f02b6d316e64e5bfb5a6,late_delivery,Delivery is significantly delayed.,high
+d0233fbba83f61318f600b4f27d4e57d,wrong_item,Received the wrong ink cartridge models.,high
+eed6ca142f3dbc79829eb3f84e932ce8,not_received,The product has not been delivered by the expected date.,high
+e8a2f17c07b6656c5d7f2953ec7c8dd3,not_as_described,Received a cheaper version of the product than what was purchased.,high
+cf81de2d1408912d9b412cc75501998c,wrong_item,Received the phone case in the wrong color.,high
+6aac1edc81d9cf0cec10771c0cb4ddb8,missing_items,Only one of three items was received.,high
+d52fef187cce8d55918722e4f605bb85,missing_items,Only one of two watches was received.,high
+d769d6d2f03d36b3a7598cd23cf57ef8,missing_items,Delivery was delayed and incomplete.,high
+0fee35b75bb8c476d5997c8c067a9d45,wrong_item,Received the wrong product instead of the one purchased.,high
+b6143c22244e423f17986e11bc68798f,not_received,Product was not delivered.,high
+3eacad17243a8f2b31dbd153b04b7c35,not_as_described,Pillowcases are too small and do not fit standard pillows.,high
+cfae3a411265e1fcfad5930a00bbb5e7,late_delivery,Delivery was delayed and product quality is poor.,high
+a26e963d873775389ca30af15e7694fb,damaged_or_defective,Product arrived poorly sealed and leaked ink.,high
+33c73c273c59f565d58dbfcfeab2220a,late_delivery,Customer requests faster delivery.,high
+f9ba06254a37b72b3b3497bf0ccc854c,seller_or_support,Defective product with no support response.,high
+edf9402bf12c978595a0b4bc5f994765,wrong_item,Received wrong case and cracked screen protector.,high
+4faa00afd506005a3d02010349b53761,not_as_described,"Product is poor quality, too small, and parts do not fit.",high
+b73e8f69439e629c14a33368e5c917fe,wrong_item,Received a different product than what was ordered online.,high
+dd1aa60a5f1e56f86476b968e6a32b0e,not_as_described,Received an inferior model and support is not resolving it.,high
+7a9001dd985ebaca7669da76ce81e047,not_received,The merchandise has not been received yet.,high
+b5e6b62fa352f2da2c929eabc180be78,not_as_described,Product is aesthetically pleasing but the material is fragile.,high
+cb30c1d49c50132378faa2a855dbbb6d,seller_or_support,Lack of status updates and poor communication from the company.,high
+eb8ba0080f2d7da6a5391438a8756111,not_as_described,"Product arrived without the warranty document, raising doubts about authenticity.",medium
+07b6799cf2084b7d95317d60db7ec147,not_as_described,The product color is completely different from the photo shown online.,high
+56b9c93b2ca47b8aee858a26da064b32,damaged_or_defective,Black ink leaked due to poor packaging during transit.,high
+ff26e5f680241f96290551499db29740,not_received,Product was not delivered and the customer is requesting a refund.,high
+2bb9b793497d3d339c9678e18909598e,not_received,The product has not been received yet.,high
+5f848157f0cd46426a01e030d3572762,no_clear_reason,The review does not specify a problem.,high
+5907db64dd9ab47d9058b074db27457b,late_delivery,The merchandise is significantly delayed.,high
+91a7aaa7b9b524c624b052a83c76337e,late_delivery,Delivery date changed after purchase and shipping was very slow.,high
+138eb76f28aa88a0322a4aa2c4406550,seller_or_support,Order was automatically cancelled after a month and refund is pending.,high
+628692cc345bbd8dbfa1f050d820cab0,not_as_described,The product does not have the expected adhesive quality.,medium
+07620ff09c460acaff8b2b8b8e1c4371,not_received,Product did not arrive and customer requests cancellation and refund.,high
+756550cd0f0c26fa589881397382aba3,not_received,The product has not been received to date.,high
+a6347a2e20a4e086b8f845cf6427539a,damaged_or_defective,The frame paint arrived peeled off.,high
+781f134ca0ee144ca888fef16c8fa4e3,seller_or_support,Product arrived defective and the seller is not responding to contact attempts.,high
+9b7f186bdb84e90acc8ac7af8a67016c,damaged_or_defective,Product arrived on time but was broken.,high
+eadbfeb8fdcc3e88332d71d46e518060,damaged_or_defective,"Product arrived broken and used, and exchange process is failing.",high
+71d4365802a2a115bca5264061f35687,not_received,"Product not received, no refund, and no response from customer support.",high
+69049b97da1868d57b4cdd1394bd7fba,not_as_described,Product is advertised as large but does not fit the child.,high
+f29e6d77fec6ddf0f64438efe2ceda49,not_received,The product did not arrive at the customer's residence.,high
+41bc38b25abfdd9f9058992860bc43cc,not_received,The product was not received.,high
+08d02cd2b8f2e1941530e843c0903ce5,other,Customer liked the product and it arrived before the deadline.,high
+4920789b5eed4298d3899a22de90171b,wrong_item,Ordered black color but received silver.,high
+8cec9a9b9e2671c1932bc236e43345f6,seller_or_support,Cancelled order was delivered and seller is not providing return instructions.,high
+bfc09a1f0c25985c969a7a048f38adda,damaged_or_defective,The mirror arrived very scratched.,high
+fa598a2cbeb3e9e4979052c332ef424f,missing_items,"Order arrived incomplete, missing one kit of pendants.",high
+e279dfed28eb749e4a870a4b83f15c9c,not_received,Product never arrived and customer received no support.,high
+90f4f4b58ec2f4b75ae779f21ef7b5b0,not_as_described,Product specifications do not match the website description.,high
+0e0daa33d6d7564c84c6e90d1513d5f4,wrong_item,Received the wrong color basket.,high
+50c851bd79dc0b19f3d9c523ca747df8,seller_or_support,Order cancelled due to stock issues after long delay.,high
+e05c78bf482edb1a3d91cb6afc45b160,damaged_or_defective,Product does not turn on.,high
+24eaeb02363f796f3eb2cd62f30ee8e5,no_clear_reason,Review contains no meaningful text.,high
+1159af6c66160e07c76f16d9f09098ed,not_as_described,Product quality is poor and lenses seem non-original.,high
+6060ab5c65e6a7c657ad4d4bdcf07b08,wrong_item,"Received wrong size kettle, poor quality and scratched.",high
+3f6941f00f7eaa354aa4f2fe20036b16,not_received,Product not received and requesting refund.,high
+fddadbf97b7b0bed29cc25cc6363fbd9,not_as_described,Product is fragile and does not meet expectations.,high
+3e58383c00bda1781ee840066b94b1b3,not_received,Product was not delivered and returned to sender.,high
+762e58e3ed6be85bec8b46548515ecb9,seller_or_support,"Order cancelled due to stock, but still charged on card.",high
+667f3499d2c63fc4077fb3a191886b1a,other,Customer is complaining about the store's logistics/location.,medium
+dce4def3e23dfcb0f594aab2da6428a2,late_delivery,Delivery failed after one attempt and returned to center.,high
+1c579127a6869cf10a62026f5ea75204,wrong_item,Received wrong color sticker without prior notice.,high
+f3ec48a00e5a8823b6cc48625c03cf1d,not_received,Product not delivered and no response from support.,high
+f4503175538ce5fcbc71659cc7ae8daa,damaged_or_defective,Product has defective stitching.,high
+a862bf72d51efa0d1880ce7e0a7ddf1a,seller_or_support,Dissatisfied with the support process for exchanges.,high
+7dd8e7b2280324790f10e99dd0c87804,not_received,Customer cancelled order and never received it.,high
+bf181318fe69d9dd4c17ae6282303748,not_as_described,Product quality is poor and looks like a fake.,high
+4fee823a2372a1ddbee0845edf1d09d6,damaged_or_defective,Product arrived damaged.,high
+e89a5957bdedc47038c003c952c69dfb,not_received,Product has not been received yet.,high
+dc083e7d90eea1541b0314a7e056525e,not_received,Delivery deadline passed and no updates provided.,high
+94e479842ae319e503c581402c8b6aea,not_as_described,Product did not include features expected from the ad.,high
+027816b74a0cba9ce961d8be5dae3472,wrong_item,The customer received the wrong product.,high
+ad6ca817f959ca1f6ec5b859ed7b3fa9,missing_items,Only one radio received instead of a kit of two.,high
+cb5703a973924cf4e5573c601f120d26,seller_or_support,No response from customer support regarding the missing order.,high
+a01b216209f753eb055ee0ab89fc94ce,not_received,The product has not been delivered yet.,high
+0ad3d864dd50968f549ad5f3d6da6335,not_received,Order not received after more than 20 days.,high
+f6bd30507432b232ab17e29e33efbcbb,damaged_or_defective,The hydration cream arrived tampered with and partially empty.,high
+4834f393efc5fd74b084a2272faecfe0,not_received,The order has not been delivered yet.,high
+b741b5f3776a645b8d3df3300b2f484a,seller_or_support,The seller sold an item that was out of stock.,high
+f2e313b4ce1dd406bb32ac680611b770,not_as_described,The watch strap is of poor quality and broke quickly.,high
+4c51327e53cf16db09ff506da553f4cd,no_clear_reason,General dissatisfaction without specific details.,high
+948bdea992cb382d46c09143aa80c6f5,not_received,The order has not been delivered yet.,high
+924b23ca2ffa5f46e9e320c3b6b8dc31,no_clear_reason,General negative feedback about the store.,high
+bd8bd4c7580ab07659b35e684bad3179,not_received,The merchandise has not been received.,high
+d1e73311a0068ca05dd0aade036db8b4,seller_or_support,Refund for returned product not processed.,high
+67d4885715f633777265347d720ac53f,not_received,The product has not arrived.,high
+633ad37ad0803a2a998bf0f8ed30e265,late_delivery,The order did not arrive by the scheduled date.,high
+b7927cabc4a7e8d5a4f6a33ac9fe11cc,not_received,The product was not delivered.,high
+ef3905df6593f5fa7faebc82fb85e2e6,late_delivery,The delivery is delayed.,high
+4514e20f37bd2f3f358eae1784283ef6,not_received,The order did not arrive by the scheduled date.,high
+85a391b84d8e864de7190a2afb6f82e4,late_delivery,The delivery deadline was missed without notification.,high
+7000756bfadbf57d8e81ae4fb8387155,missing_items,Only one kit received instead of two.,high
+9b4c6ceccd5fa257e75239739722c336,missing_items,Ordered three items but only two were received.,high
+7aabd84e0779cc2a2799866d363c80a9,not_as_described,The product is less resistant than expected.,high
+0591cd11bdcf947c1514404182607906,seller_or_support,The company provides no feedback or support.,high
+fb8418fac2dd5922208f921fa2baabfc,not_as_described,The product quality is very weak.,high
+ea38158dab891e619d3226c31cc60e2f,not_as_described,The product quality was very poor.,high
+2c99e428ec08b0a05f47a5e4c0b4c248,late_delivery,The product is great but delivery was slow.,high
+6488b98c9c31df97ab3608d6003fb392,not_received,Tracking says delivered but I have not received it.,high
+ad5686bb95d9515d17e0f5cc9ea5eb75,missing_items,Three units were missing from the order.,high
+4a15380556c3c4a8fb8661bac03ad27d,seller_or_support,Customer is asking for delivery status or cancellation.,high
+4acb8fea11825caeaf5bafd9fb158b5a,wrong_item,Product size in stock does not match the listing.,high
+64343cc8bf0ddd90ebe77f9a03b39ac8,not_received,The product has not been received yet.,high
+f247eccb3a4e95df0f226c64a2b4ffd0,wrong_item,Received a different watch than the one ordered.,high
+acf97a6a9e69ba14150422de35fd5afe,no_clear_reason,Review only lists the product name.,high
+cab0bbd0af44049b00e21a75b33fc6ec,late_delivery,The product took too long to arrive.,high
+b882862262e8588441192394b205ee46,missing_items,"Only the invoice was received, not the product.",high
+19acd10168b2ab10ec49031459c9b9ca,not_received,Product has not arrived yet.,high
+7ac310425d58b442aa9555838129f30a,seller_or_support,Order cancelled due to lack of progress and invoice.,high
+abbabc3ce3d3a53e79181ef5c2adca17,not_received,Order not delivered past the expected date.,high
+9b20c48513df9e39a384bd38c15c2047,not_received,Product has not arrived after more than a month.,high
+5ef12323d21c072cfac0a47601aba931,late_delivery,The product did not arrive within the promised deadline.,high
+f91978f4a01c8e97897adb8f282833c5,damaged_or_defective,The product arrived with a defect.,high
+38af3151c827312103c69412538600ad,late_delivery,Delivery was slower compared to another store.,medium
+72ffc17df0e7e41a17116aac548eaada,not_as_described,The delivered product differs from the website image.,high
+4ae9d5bddf498294473bb8e45788b313,not_received,The product was lost by the postal service.,high
+483c9a84d77551a8a8c45c6ec5d5cc75,seller_or_support,Product was unavailable after payment was processed.,high
+28053bd1553ef05656854c1c6309b60e,damaged_or_defective,Controller arrived with a defective battery compartment cover.,high
+e0644ca852cd5ed17361699746cb023e,not_received,Product has not arrived even after payment installments started.,high
+f76c1205c2a85f2be09fbbe71d8d0b7d,missing_items,Ordered two pendants but only one arrived.,high
+c2af30e49ec2243e0206fd03fc80d65c,not_received,Order has not arrived past the delivery deadline.,high
